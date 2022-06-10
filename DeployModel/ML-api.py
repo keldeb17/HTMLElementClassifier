@@ -17,7 +17,6 @@ from fastapi import FastAPI, Query
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 
-#app = Flask(__name__)
 
 app = FastAPI(
     title="HTML Element Classifier Model API",
@@ -52,7 +51,7 @@ def preprocess_text(text):
 
 
 @app.get("/predict-element")
-def predict(element: Optional[List[str]] = Query(["<b>Hello world</b>"])):
+def predict(element: Optional[List[str]] = Query(["<input>type="text" type="text" id="search" name="q" </input>"])):
     
     ##Pre-process text
     processed_text = preprocess_text(element)
@@ -80,13 +79,3 @@ async def value_error_exception_handler(request: Request, exc: ValueError):
         status_code=400,
         content={"message": str(exc)},
     )
-
-#if __name__ == '__main__':
- #   modelfile = 'finalized_svm_model.pickle'
-  #  model = p.load(open(modelfile, 'rb'))
-   # app.run(debug=True, port=5000)
-
-
-#https://www.kdnuggets.com/2019/01/build-api-machine-learning-model-using-flask.html
-#https://www.datacamp.com/community/tutorials/machine-learning-models-api-python
-#https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/
