@@ -1,4 +1,4 @@
-websites_link,websites_searchField,Category
+websites_link,HTMLElement,Category
 https://www.amazon.com/,"<input id=""twotabsearchtextbox"" value="""" name=""field-keywords"" autocomplete=""off"" placeholder="""" class=""nav-input nav-progressive-attribute"" dir=""auto"" tabindex=""0"" aria-label=""Search"" type=""text"">",Search
 https://www.ebay.com/,"<input class=""gh-tb ui-autocomplete-input"" aria-autocomplete=""list"" aria-expanded=""false"" size=""50"" maxlength=""300"" aria-label=""Search for anything"" placeholder=""Search for anything"" id=""gh-ac"" name=""_nkw"" autocapitalize=""off"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" type=""text"">",Search
 https://shop.bbc.com/,"<input type=""search"" id=""bc-sf-search-box-0"" class=""search-bar__input label ui-autocomplete-input bc-sf-search-box"" name=""q"" js-search-bar=""input"" autocomplete=""off"" data-search-box=""#bc-sf-search-box-0"" tabindex=""-1"">",Search
