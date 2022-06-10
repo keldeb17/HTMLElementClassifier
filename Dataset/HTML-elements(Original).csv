@@ -1,0 +1,766 @@
+websites_link,websites_searchField,Category
+https://www.amazon.com/,"<input id=""twotabsearchtextbox"" value="""" name=""field-keywords"" autocomplete=""off"" placeholder="""" class=""nav-input nav-progressive-attribute"" dir=""auto"" tabindex=""0"" aria-label=""Search"" type=""text"">",Search
+https://www.ebay.com/,"<input class=""gh-tb ui-autocomplete-input"" aria-autocomplete=""list"" aria-expanded=""false"" size=""50"" maxlength=""300"" aria-label=""Search for anything"" placeholder=""Search for anything"" id=""gh-ac"" name=""_nkw"" autocapitalize=""off"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" type=""text"">",Search
+https://shop.bbc.com/,"<input type=""search"" id=""bc-sf-search-box-0"" class=""search-bar__input label ui-autocomplete-input bc-sf-search-box"" name=""q"" js-search-bar=""input"" autocomplete=""off"" data-search-box=""#bc-sf-search-box-0"" tabindex=""-1"">",Search
+https://www.aliexpress.com/,"<input type=""text"" placeholder=""iphone 13 pro max case"" maxlength=""50"" autocomplete=""off"" value="""" name=""SearchText"" class=""search-key"" id=""search-key"">",Search
+https://www.amazon.co.uk/,"<input id=""twotabsearchtextbox"" value="""" name=""field-keywords"" autocomplete=""off"" placeholder="""" class=""nav-input nav-progressive-attribute"" dir=""auto"" tabindex=""0"" aria-label=""Search"" type=""text"">",Search
+https://www.etsy.com/,"<input id=""global-enhancements-search-query"" data-id=""search-query"" data-search-input="""" type=""text"" name=""search_query"" class=""wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input
+                        
+                         wt-pr-xs-7
+                        "" placeholder=""Search for anything"" value="""" autocomplete=""off"" autocorrect=""off"" autocapitalize=""off"">",Search
+https://www.walmart.com/,"<input type=""search"" aria-label=""Search"" aria-activedescendant="""" class=""b--none f5 flex-auto lh-solid sans-serif br-pill"" name=""q"" placeholder=""Search everything at Walmart online and in store"" style=""height:40px;padding-left:1rem;padding-right:2.5rem"" value="""">",Search
+https://www.alibaba.com/,"<input type=""text"" class=""ui-searchbar-keyword"" name=""SearchText"" autocomplete=""off"" x-webkit-speech=""x-webkit-speech"" x-webkit-grammar=""builtin:translate"" lang=""en"" placeholder=""What are you looking for..."" value="""" data-spm-anchor-id=""a2700.8293689.scGlobalHomeHeader.i0.2ce267afX16lz9"">",Search
+https://www.bestbuy.com/?intl=nosplash,"<input type=""text"" id=""gh-search-input"" class=""search-input"" name=""st"" maxlength=""90"" placeholder=""Search Best Buy"" autocomplete=""off"" aria-label=""Type to search. Navigate forward to hear suggestions"" value="""" autocorrect=""off"" autocapitolize=""off"" spellcheck=""false"" aria-controls=""suggestViewClientComponent"">",Search
+https://www.homedepot.com/,"<input class=""SearchBox__input"" id=""headerSearch"" type=""text"" autocomplete=""off"" required="""">",Search
+https://www.target.com/,"<input type=""search"" aria-label=""Search: suggestions appear below"" autocapitalize=""off"" autocomplete=""off"" autocorrect=""off"" data-test=""@web/Search/SearchInput"" id=""search"" name=""searchTerm"" placeholder=""Search"" value="""" class=""SearchInput__StyledInput-sc-1eyws09-0 fOhryt"">",Search
+https://www.wayfair.com/,"<input type=""search"" autocomplete=""off"" aria-controls=""SearchBarDropdown"" aria-autocomplete=""list"" aria-activedescendant="""" class=""StyledBox-owpd5f-0 FloatLabel__FloatLabelInput-sc-1i0wezz-1  guNylu pl-TextInput-input pl-TextInput-input pl-FloatLabel-input"" id=""searchInput"" name=""keyword"" value="""" required="""" placeholder=""Find anything home..."" data-enzyme-id=""textInput"">",Search
+https://store.steampowered.com/,"<input id=""store_nav_search_term"" name=""term"" type=""text"" class=""default"" placeholder=""search"" size=""22"" autocomplete=""off"" maxlength=""64"">",Search
+https://www.nike.com/gb/,"<input type=""text"" id=""VisualSearchInput"" class=""pre-search-input headline-5"" name=""search"" autocomplete=""off"" data-var=""vsInput"" tabindex=""0"" placeholder=""Search"" aria-label=""Search Products"" role=""combobox"" aria-controls=""VisualSearchSuggestionsList"" aria-owns=""VisualSearchSuggestionsList"" aria-expanded=""false"">",Search
+https://www.costco.com/,"<input id=""search-field"" type=""text"" name=""keyword"" class=""form-control typeahead cstm-margn tt-input"" aria-describedby=""search-field-description"" placeholder=""Search"" aria-label=""Search"" onkeyup=""window.COSTCO.util.announceFirstSuggestion()"" autocomplete=""off"" spellcheck=""false"" dir=""auto"" style=""position: relative; vertical-align: top; background-color: transparent;"">",Search
+https://www2.hm.com/en_gb/index.html,"<input id=""main-search"" data-url=""/content/hmonline/en_gb/jcr:content/header/autosuggestsearch.display.html"" type=""search"" data-test=""false"" name=""q"" placeholder=""Search products"" minlength=""3"" maxlength=""200"" data-autocomplete-disabled=""false"" class=""ui-autocomplete-input menu__search_input"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" aria-label=""Search products"">",Search
+https://www.newegg.com/,"<input type=""search"" title=""Search Site"" autocomplete=""off"" value="""">",Search
+https://www.macys.com/,"<input id=""globalSearchInputField"" name=""keyword"" type=""text"" size=""9"" maxlength=""120"" class=""globalSearchInputField right"" autocomplete=""off"" required="""" oninvalid=""return false"" placeholder=""Search"" value="""" style=""padding-right: 22px; display: inline-block;"">",Search
+https://www.bhphotovideo.com/,"<input type=""text"" id=""top-search-input"" data-selenium=""topSearch"" class=""twelve js-placeholder js-topsearch"" name=""Ntt"" autocomplete=""off"" placeholder=""Search "">",Search
+https://www.americanexpress.com/,"<input type=""search"" class=""axp-global-header__dls-module__formControl___2tgsf undefined"" name=""term"" placeholder=""Search"" aria-label=""search input"">",Search
+https://www.redbubble.com/,"<input type=""search"" class=""node_modules--redbubble-design-system-react-headerAndFooter-components-Typeahead-components-desktop-Box-Input-styles__term--2hJyR"" name=""query"" data-testid=""ds-typeahead-input-desktop"" placeholder=""Search designs and products"" role=""combobox"" aria-label=""Search term"" aria-expanded=""true"" aria-autocomplete=""list"" aria-controls=""downshift-126917-menu"" aria-labelledby=""downshift-126917-label"" autocomplete=""off"" id=""downshift-126916-input"" value="""">",Search
+https://www.msi.com/index.php,"<input type=""text"" autocomplete=""off"" id=""search"" placeholder=""Search"" aria-label=""Search through site content"">",Search
+https://www.cisco.com/,"<input name=""query"" id=""srch-phrase"" placeholder=""Search"" value="""" tabindex=""2"" autocomplete=""off"" autocorrect=""off"" autocapitalize=""off"" spellcheck=""false"" maxlength=""275"" aria-describedby=""screenreader-instruction"" aria-owns=""search-typeahead-list"" aria-expanded=""false"" aria-autocomplete=""both"" aria-activedescendant="""" class=""style-scope cdc-search"" type=""search"">",Search
+https://www.uniqlo.com/eu/en/home,"<input class=""algolia-search-input js-algolia-search-input headerSearch__input"" type=""text"" placeholder=""Search for products or content: Bratops, 3D Knit, JW ANDERSON"" data-hascontentassetplaceholder=""true"">",Search
+https://www.cdiscount.com/,"<input autocomplete=""off"" autocorrect=""off"" data-dpt="""" autocapitalize=""off"" type=""search"" value="""" placeholder=""Qu'est-ce qui vous ferait plaisir ?"" onkeyup=""this.value?$('.hSrcCancel', this.parentNode).show():$('.hSrcCancel', this.parentNode).hide();"">",Search
+https://www.nintendo.com/,"<input class=""AutoCompleteInputstyles__ActiveInput-sc-a36a8l-1 hZuPeF SearchInputstyles__Input-sc-n42o5d-4 ciNlOG"" placeholder=""Search games, hardware, news, etc"" name=""q"" type=""text"" aria-label=""Search games, hardware, news, etc"" autocomplete=""off"" autocapitalize=""off"" value="""">",Search
+https://www.humblebundle.com/,"<input id=""site-search"" aria-label=""Search"" class=""site-search js-search"" placeholder=""Search"">",Search
+http://www.auction.co.kr/,"<input type=""text"" class=""search_input_keyword"" id=""txtKeyword"" onmousedown=""return TopSearchBox.SetSearchBoxAdClear(1, this, event);"" onkeydown=""return TopSearchBox.SetSearchBoxAdClear(1, this, event);"" onclick=""return TopSearchBox.SetSearchBoxAdClear(1, this, event);"" onfocus=""return TopSearchBox.SetSearchBoxAdClear(0, this, event);"" title=""Enter a search term"" autocomplete=""off"">",Search
+https://www.shutterfly.com/,"<input placeholder=""Search"" aria-label=""Enter searching text here"" maxlength=""50"" role=""searchbox"" aria-autocomplete=""list"" aria-owns=""search_results"" aria-activedescendant="""" data-linkname=""search box selected"" hint=""[object Object]"" type=""text"" novalidate="""" class=""unstyled_input uigSrchTxtField  "" value="""">",Search
+https://www.walgreens.com/,"<input type=""text"" value="""" id=""ntt-placeholder"" class=""blue-shadow"" name=""Ntt"" placeholder=""Search"" aria-label=""Search by keyword or item number"" title=""Search"" role=""combobox"" aria-describedby=""ntt-placeholder"" aria-live=""polite"" aria-autocomplete=""both"" aria-haspopup=""true"" aria-owns=""wag-typeaheadlists"" aria-controls=""ntt-placeholder"" aria-expanded=""false"" autocomplete=""off"" autocorrect=""off"">",Search
+https://www.bedbathandbeyond.com/,"<input aria-label=""Search"" aria-owns=""searchSuggestions"" autocomplete=""off"" class=""s12 whiteBg searchInput user-invalid valueMissing"" data-locator=""searchbar"" id=""searchInput"" name=""searchInput"" on=""input-debounced:AMP.setState({'searchTerm': event.value}); tap:AMP.setState({u: {nav: null}, navState: {activeDskNav: null, nav1Header: null, nav1Obj: null, flyoutMenu: null}})"" required="""" spellcheck=""false"" tabindex=""-1"" type=""search"" value="""">",Search
+https://shein.com/,"<input data-v-625ba90a="""" type=""search"" name=""header-search"" autocomplete=""off"" class=""header-search-input j-header-search-input"" placeholder=""Bag"">",Search
+https://www.sephora.com/,"<input type=""search"" autocomplete=""off"" autocorrect=""off"" autocapitalize=""off"" spellcheck=""false"" aria-autocomplete=""list"" aria-controls=""site_search_listbox"" maxlength=""70"" data-at=""search_input"" value="""" placeholder=""Search"" id=""site_search_input"" name=""keyword"" class=""css-1ij6iqe"">",Search
+https://www.boohoo.com/,"<input role=""combobox"" aria-autocomplete=""list"" aria-controls=""search-suggestions-list"" aria-expanded=""false"" aria-haspopup=""listbox"" aria-label=""Search combobox"" aria-owns=""search-suggestions-list"" data-ref=""input"" data-event-blur=""handleBlur"" data-event-focus=""handleFocus"" data-event-input=""handleInput"" data-event-keydown=""handleKeydown"" data-event-click.prevent=""handleOpenClick"" data-tau=""search_dialog_input"" id=""header-search-input"" class=""b-search_input-input m-empty"" type=""search"" name=""q"" value="""" placeholder=""What are you looking for?"" autocapitalize=""off"" autocomplete=""off"" autocorrect=""false"" spellcheck=""false"" itemprop=""query"" maxlength=""50"" enterkeyhint=""search"" title=""Search"">",Search
+https://www.asos.com/?,"<input type=""search"" id=""chrome-search"" name=""q"" class=""Cyuazsm _1LCOtZ3 SJwm9Lx"" autocomplete=""off"" autocorrect=""off"" spellcheck=""off"" placeholder=""Search for items and brands"" data-testid=""search-input"" aria-autocomplete=""list"" aria-haspopup=""listbox"" aria-expanded=""false"" aria-activedescendant="""" maxlength=""150"" value="""">",Search
+https://www.rei.com/,"<input class=""search__input"" autocorrect=""off"" autocomplete=""off"" type=""text"" maxlength=""70"" title=""search input field"" aria-labelledby=""search-button"" aria-multiline=""false"" aria-autocomplete=""list"" aria-owns=""gnav-recent-search-list gnav-suggestion-list gnav-search-status"" data-js=""search-field"" data-ui=""site-header-site-search-input"" name=""q"" placeholder=""Search for great gear &amp; clothing"" data-analytics-id=""rei_nav:search_text_open"" role=""searchbox"" aria-activedescendant="""">",Search
+https://www.gamestop.com/,"<input class=""form-control border-0 search-field hide-clear"" type=""search"" value="""" name=""q"" id=""searchRedesignTemplateInput"" placeholder=""Search games, consoles and more"" autocomplete=""off"" autocapitalize=""none"" aria-label=""Search games, consoles and more"">",Search
+https://www.barnesandnoble.com/,"<input autocomplete=""off"" placeholder=""Search by Title, Author, Keyword or ISBN"" type=""text"" aria-autocomplete=""both"" aria-expanded=""false"" aria-haspopup=""listbox"" role=""combobox"" class=""rbt-input-main form-control rbt-input"" value="""">",Search
+https://www.fnac.com/,"<input type=""search"" class=""Header__search-input js-HeaderSearch-input js-searchbar-input"" name=""Search"" id=""Fnac_Search"" placeholder=""Rechercher un produit"" aria-label=""Rechercher un produit"" value="""" autocapitalize=""off"" autocomplete=""off"" autocorrect=""off"" spellcheck=""false"" minlength=""1"" required="""" data-automation-id=""search-product-input"">",Search
+https://www.bodybuilding.com/en-MT/index,"<input class=""w21_header-search__input ui-autocomplete-input"" type=""search"" name=""q"" placeholder=""Search supplements, plans, or articles..."" value="""" id=""ispbxii_0"" autocomplete=""OfF"" autocorrect=""off"" autocapitalize=""off"" aria-label=""Search"" aria-autocomplete=""list"" isp_ac=""OfF"">",Search
+https://www.6pm.com/,"<input type=""search"" id=""searchAll"" name=""term"" role=""combobox"" aria-autocomplete=""list"" aria-haspopup=""listbox"" aria-expanded=""false"" class=""aD-z"" placeholder=""Search 6pm.com"" accesskey=""s"" value="""" autocomplete=""off"">",Search
+https://www.urbanoutfitters.com/,"<input aria-label=""Search"" placeholder=""Search"" autocapitalize=""off"" autocomplete=""off"" autocorrect=""off"" name=""q"" required=""required"" spellcheck=""false"" type=""text"" value="""" class=""c-pwa-site-search__input"">",Search
+https://www.vans.eu/,"<input class=""formPlaceHolder header-search-term-input-js search-input-js"" required="""" data-filter-chars=""[\/\|\*\\]"" type=""text"" id=""search"" name=""searchTerm"" placeholder=""Search for ..."" aria-label=""Search for ..."" autocomplete=""off"">",Search
+https://store.acer.com/en-gb/?internal_source=mktg_hp-nav&internal_medium=link&internal_campaign=internal,"<input id=""search"" type=""text"" name=""q"" placeholder="""" class=""input-text"" maxlength=""128"" role=""combobox"" aria-haspopup=""false"" aria-autocomplete=""both"" autocomplete=""off"">",Search
+https://www.elo7.com.br/,"<input autocomplete=""off"" aria-controls=""results"" aria-autocomplete=""list"" type=""text"" name=""q"" placeholder=""Buscar produtos"" value="""" class=""search-field"" id=""search-query"" data-tracker=""bn=1"" aria-label=""Buscar produtos"">",Search
+https://shop.mango.com/mt/women,"<input class=""LqcsN"" type=""search"" placeholder=""Search in Woman"" data-testid=""header.search.input"" value="""">",Search
+https://www.jarir.com/,"<input itemprop=""query-input"" name=""search"" placeholder=""?????"" type=""text"" autocomplete=""off"" class=""input__field search-form__input"">",Search
+https://www.ulta.com/,"<input class=""form-control"" name=""searchInput"" id=""searchInput"" autocomplete=""off"" autocorrect=""off"" spellcheck=""false"" type=""text"" aria-label=""Search"" placeholder=""Search"" value="""">",Search
+https://www.sears.com/,"<input accesskey=""2"" type=""text"" autocomplete=""off"" autocorrect=""off"" id=""keyword"" name=""keyword"" alt=""Search Sears"" title=""Search Sears"" value="""" placeholder=""What would you like to search for today?"" data-flk-success=""atNodeInserted978"" onfocus=""this.placeholder = &quot;&quot;"" onblur=""this.placeholder = &quot;What would you like to search for today?&quot;"" style=""height:36px !important"" class=""ui-autocomplete-input"">",Search
+https://www.qvc.com/,"<input id=""txtMastheadSearch"" class=""searchInput"" placeholder=""What can we help you discover?"" type=""text"" value="""" autocorrect=""off"" autocomplete=""off"" aria-owns=""predictiveSearch"" aria-expanded=""false"" data-msg-required=""Please enter one or more search words before clicking SEARCH."">",Search
+https://www.ifixit.com/,"<input type=""search"" placeholder=""Try &quot;Car Maintenance&quot;"" autocomplete=""off"" autocorrect=""off"" autocapitalize=""off"" aria-label=""Search"" class=""css-jexeh8"" value="""" style=""height: 48px;"">",Search
+https://global.tommy.com/,"<input class=""search__input js-search-input"" type=""text"" name=""search"" placeholder=""Type to search"">",Search
+https://www.hermes.com/us/en/,"<input id=""block-hermes-commerce-nav-search"" type=""text"" aria-autocomplete=""list"" autocomplete=""off"" class=""field-search"" name=""s"" aria-controls=""search-listbox"" placeholder=""Search"">",Search
+https://store.arduino.cc/,"<input type=""text"" placeholder=""Search on Arduino.cc"" value="""" name=""q"" title="""" class=""search-typing aa-input"" autocomplete=""off"" spellcheck=""false"" role=""combobox"" aria-autocomplete=""both"" aria-expanded=""false"" aria-owns=""algolia-autocomplete-listbox-0"" dir=""auto"" style="""">",Search
+https://grifo210.com/en/,"<input id=""search"" type=""text"" name=""q"" value="""" placeholder=""Search entire store here..."" class=""input-text"" maxlength=""128"" role=""combobox"" aria-haspopup=""false"" aria-autocomplete=""both"" autocomplete=""off"">",Search
+https://www.mediamarkt.de/,"<input type=""text"" aria-label=""Was suchen Sie?"" placeholder=""Was suchen Sie?"" maxlength=""150"" autocomplete=""off"" class=""StyledTextInput-p8hv3c-1 gYopDH"" value="""">",Search
+https://www.ae.com/us/en,"<input name=""search"" autocomplete=""off"" placeholder=""Products, help topics, etc."" maxlength=""80"" id=""ember578-input"" class=""ember-text-field ember-view form-control form-control form-input-search"" aria-label=""Products, help topics, etc."" type=""search"">",Search
+https://www.cabelas.com/shop/en,"<input id=""SimpleSearchForm_SearchTerm"" aria-label=""Search"" type=""text"" name=""searchTerm"" placeholder=""What can we help you find?"" required="""" autocomplete=""off"">",Search
+https://eu.gymshark.com/,"<input type=""text"" id=""search-input"" placeholder=""Search By Typing Keywords..."" aria-label=""Search"" class=""Styles__SearchBar-sc-1anx23j-1 kPzyBd"">",Search
+https://shop.lululemon.com/,"<input type=""search"" autocomplete=""off"" placeholder=""Search"" class=""search_input__2c8IH lll-text-body-2 OneLinkTx"" name=""Ntt"" value="""" data-testid=""nav-desktop-search"">",Search
+https://www.jcrew.com/mt/,"<input type=""search"" aria-label=""Site wide search"" class=""nc-nav__search__input"" placeholder=""Search J.Crew"" value="""" data-qaid=""navDesktopSearchInput"" autocomplete=""off"" autocapitalize=""off"" autocorrect=""off"" maxlength=""50"">",Search
+https://www.harrods.com/en-mt/,"<input data-test=""input"" aria-invalid=""false"" id=""search-popover-input"" type=""search"" name=""query"" autocomplete=""off"" placeholder=""Search Harrods.com"" class=""css-eir78e e1xj99aj8"" value="""">",Search
+https://front.wemakeprice.com/main,"<input type=""text"" id=""_searchKeyword"" name=""search_keyword"" autocomplete=""off"" class=""ui_input_text"" size=""5"" title=""??? ??"" maxlength=""50"" value="""" data-gtm-category=""PC_??"" data-gtm-action=""GNB_??"" data-gtm-label=""??????"" data-gtm-vis-recent-on-screen-8207576_2001=""3933"" data-gtm-vis-first-on-screen-8207576_2001=""3933"" data-gtm-vis-total-visible-time-8207576_2001=""100"" data-gtm-vis-has-fired-8207576_2001=""1"">",Search
+https://www.jbhifi.com.au/,"<input placeholder=""Search products"" type=""search"">",Search
+https://uk.jbl.com/home?countrySelector=yes&ged=off,"<input id=""search-bar"" class=""search-bar"" type=""search"" name=""q"" placeholder=""Search"" autocomplete=""off"" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_636=""1"" data-gtm-vis-has-fired-7462654_621=""1"">",Search
+https://www.leam.com/it_eu/,"<input id=""search"" type=""text"" name=""q"" value="""" class=""searchbox"" maxlength=""256"">",Search
+https://www.prettylittlething.com/?refresh=1647018715474,"<input class=""search-box"" autocomplete=""off"" id=""searchbox"" name=""q"" type=""search"" value="""" placeholder=""Search"" maxlength=""128"" aria-label=""Search Input"">",Search
+https://www.alibris.com/,"<input type=""text"" id=""searchBox"" name=""keyword"" class=""form-control search-input ui-autocomplete-input"" placeholder=""Search by Title, Author, or ISBN"" autocomplete=""off"">",Search
+https://colourpop.com/,"<input class=""header__search-bar--input"" type=""text"" name=""q"" placeholder=""tell us what you want"" autofocus="""" autocomplete=""off"" maxlength=""255"">",Search
+https://www.staples.ca/,"<input type=""search"" autocomplete=""off"" aria-autocomplete=""list"" aria-controls=""react-autowhatever-1"" class=""react-autosuggest__input"" placeholder=""Search for products, services and articles"" aria-label=""Search for products, services and articles"" id=""algoliasearch-searchbar-input"" value="""">",Search
+https://www.leroymerlin.fr/,"<input type=""search"" id=""keyword--998"" name=""keyword"" class=""mc-text-input mc-field__input js-form-input hasPlaceHolder mc-left-icon-input__input "" placeholder=""Rechercher un produit, une marque..."" aria-label=""Commencez à saisir les termes à rechercher, puis naviguez dans les propositions avec les flèches haut et bas, et faites entrer pour valider votre choix"" data-mismatch=""Ce champ ne respecte pas le format attendu : "" pattern=""([^<>{}])*"" tabindex=""0"" maxlength=""100"">",Search
+https://eu.cettire.com/,"<input type=""text"" id=""searchInput"" class=""_3_9TvcMgYc9w_IvDNYkS_k"" placeholder=""Search"" value="""" autocomplete=""off"">",Search
+https://www.pacsun.com/,"<input class=""js-search-input form-control search-field desktop-search"" type=""text"" name=""q"" value="""" placeholder=""Search"" role=""combobox"" aria-describedby=""search-assistive-text"" aria-haspopup=""listbox"" aria-owns=""search-results"" aria-expanded=""false"" aria-autocomplete=""list"" aria-activedescendant="""" aria-controls=""search-results"" aria-label=""Enter Keyword or Item No."" autocomplete=""off"">",Search
+https://www.woolworths.com.au/,"<input id=""wx-headerSearch"" name=""headerSearch"" type=""search"" autocomplete=""off"" class=""headerSearch-searchBox"" placeholder=""Search products &amp; recipes"" role=""combobox"" aria-owns=""headerSearch-results"" aria-haspopup=""true"" aria-autocomplete=""both"" aria-label=""Search products &amp; recipes"" aria-expanded=""false"" aria-activedescendant="""" onfocus=""AR.headerSearch.searchFocus()"" onfocusout=""AR.headerSearch.searchFocusOut(event)"" oninput=""AR.headerSearch.searchOnInput()"" onkeydown=""AR.headerSearch.searchKeydown(event)"">",Search
+https://www.jomashop.com/,"<input type=""text"" class=""search-field-input"" placeholder=""Search by brand or model"" readonly="""" aria-label=""search box"">",Search
+https://www.net-a-porter.com/en-mt/,"<input type=""text"" placeholder=""Search NET-A-PORTER"" class=""SearchOverlay2__input"" value="""">",Search
+https://www.forever21.com/,"<input class=""site-search__field is-invalid"" type=""search"" id=""siteSearch--desktop"" name=""q"" value="""" data-search-component=""input"" placeholder=""What can we help you find?"" data-mobile-placeholder=""Search"" autocomplete=""off"" required="""" minlength=""3"" aria-describedby=""q-1145529672656"">",Search
+https://fineartamerica.com/,"<input type=""text"" id=""searchFormHeaderInput"" name=""searchtag"" onfocus=""headerSearchFocus();"" onkeypress=""checkForEnterSearchFormHeader(event);"" value="""" placeholder=""Search"" title=""Search"">",Search
+https://www.lush.com/uk/en,"<input type=""search"" placeholder=""Search"" aria-controls=""searchResults"" data-test=""search-input"" value="""">",Search
+https://www.eu.forzieri.com/,"<input id=""frmSearchFindSpec"" type=""search"" class=""text"" name=""s"" placeholder=""I'm looking for"" value="""">",Search
+https://www.packtpub.com/,"<input id=""search"" type=""text"" name=""q"" class=""input-text algolia-search-input aa-input"" autocomplete=""off"" spellcheck=""false"" autocorrect=""off"" autocapitalize=""off"" placeholder=""Search..."" role=""combobox"" aria-autocomplete=""list"" aria-expanded=""false"" aria-labelledby=""search"" aria-owns=""algolia-autocomplete-listbox-0"" dir=""auto"" style=""position: relative; vertical-align: top;"">",Search
+https://www.underarmour.com/en-us/,"<input class=""form-control js-search-field b-search-input"" name=""q"" value="""" placeholder=""Search UA"" role=""combobox"" autocomplete=""off"" data-min-chars=""1"" aria-haspopup=""listbox"" aria-expanded=""false"" aria-autocomplete=""list"" aria-activedescendant="""" aria-label=""Enter Keyword or Item No."" type=""search"">",Search
+https://www.hsn.com/,"<input autocomplete=""off"" id=""search-input"" name=""query"" placeholder=""Search by item # or keyword"" type=""search"" unbxdattr=""sq"">",Search
+https://stylesforless.com/,"<input type=""search"" name=""q"" value="""" placeholder=""Search"" aria-label=""Search"">",Search
+https://www.abebooks.com/,"<input autocomplete=""off"" aria-autocomplete=""list"" aria-controls=""react-autowhatever-header-searchbox-input-m"" class=""gnav-searchbox-input-m"" id=""header-searchbox-input-m"" name=""kn"" placeholder=""Search AbeBooks"" aria-label=""Enter keyword, title, author or ISBN"" value="""" type=""search"">",Search
+https://www.harborfreight.com/,"<input type=""text"" class=""input__textInput--uj3w6d"" autocomplete=""off"" id=""search-input"" name=""search"" placeholder=""What are you looking for today?"" title=""Search"" value="""">",Search
+https://www.joann.com/,"<input class=""site-search__field"" type=""search"" id=""siteSearch"" name=""q"" value="""" data-search-component=""input"" placeholder=""Search for products, brands, inspiration..."" autocomplete=""off"" aria-describedby=""q-618585256477"">",Search
+https://www.kobo.com/,"<input name=""query"" aria-label=""search"" autocomplete=""off"" class=""search-field"" id=""sl"" placeholder=""Search by title, author, series or ISBN"" type=""search"" value="""">",Search
+https://www.crateandbarrel.com/,"<input type=""search"" id=""header-header-search-input"" name=""query"" class=""search-typeAhead-input "" placeholder=""What can we help you find?"" maxlength=""100"" autocomplete=""off"" value="""" aria-label=""Search"" role=""combobox"" aria-expanded=""false"" aria-controls=""typeAhead-result-header"" aria-autocomplete=""both"" aria-activedescendant="""" aria-owns=""typeAhead-result-header"">",Search
+https://www.primark.com/,"<input aria-invalid=""false"" placeholder=""Search"" type=""text"" aria-label=""Search"" class=""MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"" value="""">",Search
+https://www.frmoda.com/en/,"<input data-extra-param=""extra"" id=""myInput"" type=""search"" name=""q"" value="""" class=""input-text required-entry"" maxlength=""128"" data-categories="""" placeholder=""Search..."" autocomplete=""off"" style=""background-image: none;"">",Search
+https://www.petsmart.com/,"<input class=""dp-search-input"" type=""text"" name=""q"" placeholder=""search"" title=""Search"" autocomplete=""off"">",Search
+https://www.bathandbodyworks.com/,"<input type=""search"" id=""q"" name=""q"" class=""on-site-search-box valid"" value="""" placeholder=""Search by fragrance or product..."" autocomplete=""off"" style=""text-overflow: ellipsis; white-space: nowrap; overflow: hidden; transition: width 400ms ease 0s;"" aria-invalid=""false"">",Search
+https://www.roguefitness.com/,"<input id=""search-bar-input"" placeholder=""Search"" autocomplete=""off"" value="""" class=""search-input"" data-v-0e26b51b="""">",Search
+https://www.finishline.com/,"<input type=""text"" id=""searchBarSearchBox"" aria-label=""Search Field"" placeholder=""Search"" autocomplete=""off"" name=""Ntt"">",Search
+https://www.ray-ban.com/international,"<input type=""text"" name=""searchTerm"" id=""searchTerm"" onkeyup=""search(this)"" placeholder=""Search the Ray-Ban site"">",Search
+https://www.harveynichols.com/,"<input type=""search"" id=""search-input"" autocomplete=""off"" placeholder=""Enter a search term"" class=""nav-search__input js-search-input"" name=""q"" maxlength=""40"" value="""">",Search
+https://www.kmart.com/,"<input accesskey=""2"" type=""text"" autocomplete=""off"" autocorrect=""off"" id=""keyword"" name=""keyword"" value="""" title=""Search Kmart"" alt=""Search Kmart"" placeholder=""Find something great"" class=""ui-autocomplete-input"">",Search
+https://www.scanmalta.com/shop/,"<input id=""search"" type=""text"" name=""q"" value="""" class=""input-text mdl-textfield__input"" maxlength=""128"" role=""combobox"" aria-haspopup=""false"" aria-autocomplete=""both"" autocomplete=""off"">",Search
+https://us.pandora.net/,"<input name=""q"" id=""q"" class=""Simple-search__search-field js-search-field"" value="""" placeholder=""SEARCH"" autocomplete=""off"" type=""search"">",Search
+craigslist.org,"<input id=""query"" class=""querybox flatinput ui-autocomplete-input"" name=""query"" data-autocomplete=""search-count"" autocorrect=""off"" autocapitalize=""off"" placeholder=""search Craigslist"" autofocus=""autofocus"" autocomplete=""off"">",Search
+taobao.com,"<input class=""rax-textinput rax-textinput-placeholder-4 searchbar-input"" placeholder=""water glass"" data-spm-anchor-id=""a2141.241046-mt.searchbar.i0.41ca6f11A1tDlo"">",Search
+rakuten.co.jp,"<input class=""input-text--37z4R"" type=""search"" id=""common-header-search-input"" placeholder=""Keyword search"" name=""sitem"" value="""">",Search
+trendyol.com,"<input class=""search-bar"" type=""text"" placeholder=""Type the product, category or brand you are looking"" value="""">",Search
+flipkart.com,"<input class=""_3704LK"" type=""text"" title=""Search for products, brands and more"" name=""q"" autocomplete=""off"" placeholder=""Search for products, brands and more"" value="""">",Search
+allegro.pl,"<input required="""" type=""text"" autocomplete=""off"" name=""string"" role=""combobox"" aria-autocomplete=""both"" aria-controls=""suggestions-listbox"" data-role=""search-input"" placeholder=""what are you looking for?"" class=""mr3m_1 mli2_1 mjyo_6x mse2_40 mqu1_40 mp4t_0 m3h2_0 mryx_0 munh_0 mg9e_0 mj7a_0 mh36_0 mvrt_8 mlkp_ag mefy_5r mldj_0 mm2b_0 _14uqc mgmw_q3 mh85_0 _535b5_1gH6X"" autofocus="""">",Search
+jd.com,"<input clstag=""pageclick|keycount|hk|search_a"" type=""text"" onkeydown=""javascript:if(event.keyCode==13) search('key');"" autocomplete=""off"" id=""key"" accesskey=""s"" class=""text"">",Search
+wildberries.ru,"<input autocomplete=""off"" id=""searchInput"" class=""search-catalog__input j-wba-header-item"" data-wba-header-name=""Search_text"" type=""search"" maxlength=""300"" placeholder=""? ???..."" data-link=""{:searchText:}readonly{:imageChipData}{on 'keydown' onSearchInputKeypress}{on 'focus' enableSuggestions}{on 'input' showSuggestionsDebounced}"" data-jsv=""#78^/78^#79^/79^#80^/80^"">",Seach
+https://lava.mt/,"<input type=""search"" class=""orig"" tabindex=""100"" placeholder=""Search here..."" name=""phrase"" value="""" aria-label=""Search input 1"" autocomplete=""off"">",Search
+mercadolibre.com.ar,"<input type=""text"" class=""nav-search-input"" aria-label=""Ingresá lo que quieras encontrar"" name=""as_word"" placeholder=""Buscar productos, marcas y más…"" maxlength=""120"" autofocus="""" autocapitalize=""off"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" tabindex=""2"" value="""" aria-activedescendant="""" aria-controls=""cb1-list"" aria-autocomplete=""list"" id=""cb1-edit"" aria-expanded=""false"" role=""combobox"">",Search
+ebay-kleinanzeigen.de,"<input type=""text"" id=""site-search-query"" class=""splitfield-input is-not-clearable"" name=""keywords"" tabindex=""1"" title="""" placeholder=""What are you looking for?"" value="""" autofocus="""" autocomplete=""off"">",Search
+tokopedia.com,"<input aria-label=""Bidang pencarian"" data-unify=""Search"" placeholder=""Cari "" type=""text"" class=""css-ubsgp5 e110g5pc0"" value="""">",Search
+mercadolibre.com.mx,"<input type=""text"" class=""nav-search-input"" aria-label=""Enter what you want to find"" name=""as_word"" placeholder=""Search for products, brands and more…"" maxlength=""120"" autocapitalize=""off"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" tabindex=""3"" value="""" aria-activedescendant="""" aria-controls=""cb1-list"" aria-autocomplete=""list"" id=""cb1-edit"" aria-expanded=""false"" role=""combobox"">",Search
+market.yandex.ru,"<input type=""text"" id=""header-search"" itemprop=""query-input"" name=""text"" aria-labelledby=""header-search header-search-label"" class=""nQ8aB mini-suggest__input"" value="""" placeholder=""Search products"" autocomplete=""off"" autocorrect=""off"" autocapitalize=""off"" spellcheck=""false"">",Search
+shopee.co.id,"<input aria-label=""terrypalmerid Discount up to 60%"" class=""shopee-searchbar-input__input"" maxlength=""128"" placeholder=""terrypalmerid Discount up to 60%"" autocomplete=""off"" aria-autocomplete=""list"" aria-controls=""shopee-searchbar-listbox"" value="""">",Search
+tmall.com,"<input numberoflines=""false"" class=""rax-textinput rax-textinput-placeholder-0 SearchInput--searchInputContent--1USWNEl"" placeholder=""Search Tmall products/brands/shops"">",Search
+olx.com.br,"<input type=""text"" value="""" autocomplete=""off"" aria-autocomplete=""list"" aria-controls=""react-autowhatever-1"" class=""react-autosuggest__input"" placeholder=""I'm looking for...."" name=""q"" id=""searchtext"" size=""20"">",Search
+americanas.com.br,"<input type=""text"" name=""conteudo"" autocomplete=""off"" placeholder=""search here for your product"" class=""search__InputUI-sc-1wvs0c1-2 dRQgOV"">",Search
+sahibinden.com,NaN,Search
+kakaku.com,"<input type=""text"" id=""query"" name=""query"" autocomplete=""off"" class=""c-gSearch_text-1_input p-topSerach_input"" placeholder=""What are you looking for?  (Manufacturer, product category, product name, model number ...)"">",Search
+shopping.yahoo.co.jp,NaN,Search
+mercari.com,"<input class=""Input__StyledInput-sc-19d8fkv-0 hlpFOe SearchInput-sc-1kwj44w-0 elygcy"" placeholder=""Search for one-of-a-kind finds"" type=""search"" data-testid=""SearchInput"" value="""">",Search
+hudson.com,"<input class=""vitals-search-input"" type=""text"" autocomplete=""off"" placeholder=""What are you looking for?"">",Search
+ozon.ru,"<input placeholder=""?????? ?? Ozon"" type=""text"" name=""text"" autocapitalize=""off"" autocomplete=""off"" autocorrect=""off"" spellcheck=""false"" maxlength=""255"" value="""" class=""w7v"">",Search
+wish.com,"<input maxlength=""100"" type=""text"" placeholder=""What do you want to find?"" data-testid=""topmenu-searchbar"" class=""NavbarSearchBar__SearchInput-sc-19mfcgw-3 eiufaI"" value="""">",Search
+bol.com,"<input id=""searchfor"" name=""searchtext"" type=""text"" value="""" maxlength=""75"" autocorrect=""off"" spellcheck=""false"" autocomplete=""off"" autocapitalize=""off"" placeholder=""Waar ben je naar op zoek?"" class=""wsp-search__input js-search-input"" data-test=""search_input_trigger"">",Search
+magazineluiza.com.br,"<input type=""search"" placeholder=""Procure por código, nome, marca..."" value="""" id=""input-search"" data-testid=""input-search"" font-size=""1"" class=""sc-jWaEpP fXqluz"">",Search
+casasbahia.com.br,"<input type=""text"" id=""strBusca"" value="""" name=""strBusca"" placeholder=""O que você está procurando?"" spellcheck=""false"" accesskey=""b"" autocomplete=""off"" dir=""auto"" onfocus=""inputSearchOnFocus()"" onblur=""inputSearchOnBlur()"" class=""fitext"" nm-autocomplete=""off"">",Search
+https://www.joom.com/en,"<input class=""input___3wRUz"" placeholder=""Search"" aria-autocomplete=""list"" role=""combobox"" aria-haspopup=""listbox"" aria-controls=""9-1"" aria-expanded=""false"" value="""">",Search
+shopping.naver.com,"<input type=""text"" class=""_searchInput_search_input_QXUFf"" title=""Enter a search term"" value="""">",Search
+shopee.vn,"<input aria-label=""GET 1 YEAR FREE BUYING MILK"" class=""shopee-searchbar-input__input"" maxlength=""128"" placeholder=""GET 1 YEAR FREE BUYING MILK"" autocomplete=""off"" aria-autocomplete=""list"" aria-controls=""shopee-searchbar-listbox"" value="""">",Search
+subito.it,"<input type=""search"" id=""main-keyword-field"" name=""main-keyword-field"" value="""" placeholder=""Vespa, iPhone, Two-room apartment"" class=""size-normal index-module_weight-book__2ghWz"" autocomplete=""off"">",Search
+kohls.com,"<input type=""text"" placeholder=""What are you looking for today?"" class=""input-text"" id=""search"" name=""search"" autocomplete=""off"">",Search
+kijiji.ca,"<input class=""input-2398582227 inputKeyword-1984178082"" id=""SearchKeyword"" value="""" placeholder=""Search for anything..."" autocomplete=""off"" aria-autocomplete=""list"" aria-labelledby=""Algolia-Selector-label"" maxlength=""200"" name=""keywords"" variant=""default"">",Search
+digikala.com,"<div data-cro-id=""searchbox-click"" class=""d-flex ai-center SearchInput_SearchInput__fyqNG bg-100 SearchInput_SearchInput__searchInput__GoFsj ellipsis grow-1 radius px-2 px-4-lg text-body-2""><div class=""d-flex ai-center jc-between grow-1 w-min-0""><div class=""d-flex pointer""><svg style=""width: 24px; height: 24px; fill: var(--color-icon-low-emphasis);""><use xlink:href=""#searchSearch""></use></svg></div><span data-cro-id=""searchbox-type"" class=""grow-1 px-2 px-4-lg ellipsis""><div class=""color-500 d-flex ai-center text-body-2""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Search</font></font></div></span></div></div>",Search
+dmm.com,"<input type=""text"" name=""searchstr"" value="""" placeholder=""Search by keyword (products, services, games, etc.)"" id=""naviapi-search-text"" aria-label=""keyword"">",Search
+argos.co.uk,NaN,Search
+otto.de,"<input class=""squirrel_searchbar__input js_squirrel_searchbar__input js_squirrel_ignore_close_suggest"" data-qa-id=""search-field"" data-qa=""ftfind-search-field"" type=""text"" placeholder=""What are you searching for?"" autocomplete=""off"" autocorrect=""off"" maxlength=""50"">",Search
+slickdeals.net,"<input class=""bp-p-slickdealsHeaderSearch_input"" type=""text"" name=""q"" value="""" placeholder=""Search deals, coupons, stores and more..."">",Search
+marktplaats.nl,"<input class=""hz-Nav-dropdown-toggle hz-Header-Autocomplete-input"" name=""query"" spellcheck=""false"" data-role=""searchForm-autocomplete"" aria-label=""Search"" autocomplete=""off"" value="""" tabindex=""0"" aria-haspopup=""true"" aria-expanded=""false"">",Search
+dpoint.jp,NaN,Search
+momoshop.com.tw,"<input id=""keyword"" name=""keyword"" type=""text"" placeholder=""Shampoo"" class=""inputArea ac_input ui-autocomplete-input"" autocomplete=""off"">",Search
+cdiscount.com,"<input autocomplete=""off"" autocorrect=""off"" data-dpt="""" autocapitalize=""off"" type=""search"" value="""" placeholder=""What would you like ?"" onkeyup=""this.value?$('.hSrcCancel', this.parentNode).show():$('.hSrcCancel', this.parentNode).hide();"">",Search
+poshmark.com,"<input id=""searchInput"" placeholder=""Search Listings"" data-et-prop-content_type=""listings"" aria-label=""Search"" autocomplete=""off"" autocorrect=""off"" spellcheck=""false"" name=""query"" type=""search"" data-et-name=""search_bar"" value="""" class=""search-entry"">",Search
+otomoto.pl,NaN,Search
+ticketmaster.com,"<input type=""search"" placeholder=""Search for artists, venues, and events"" value="""" aria-label=""Search input"" class=""sc-gVkuDy cWJbYc search--input search--input-focused"" name=""q"" autocomplete=""off"">",Search
+smzdm.com,"<input type=""search"" class=""search-input"" id=""J_search_input"" name=""s"" value="""" placeholder=""??"" autocomplete=""off"">",Search
+1688.com,"<input id=""home-header-searchbox"" class=""empty"" accesskey=""s"" autocomplete=""off"" maxlength=""60"" name=""keywords"" data-dtop=""16"" data-placeholder-link="""" placeholder=""Search for goods/suppliers/purchase"" value="""" style=""font-size: 15.5px; padding-left: 44px; padding-right: 66.5px;"" data-emogine-form-component-dom-type=""area"" data-emogine-form-component-id=""kbdm6npa"">",Search
+11st.co.kr,"<input id=""AKCKwd"" name=""kwd"" onfocus=""clearAdUrl(); searchManager.init();"" type=""text"" class=""header_inp_txt placetx"" title=""ELEVEN STREET search"" value="""">",Search
+rozetka.com.ua,"<input _ngcontent-rz-client-c105="""" search-input="""" type=""text"" autocomplete=""off"" name=""search"" class=""search-form__input ng-untouched ng-pristine ng-valid"" placeholder=""I'm looking for..."">",Search
+https://www.carrefour.com/en,"<input title=""Enter the terms you wish to search for."" data-drupal-selector=""edit-keys"" type=""search"" id=""edit-keys"" name=""keys"" value="""" size=""15"" maxlength=""128"" class=""form-search"" required="""" placeholder=""  What are you looking for?"">",Search
+https://www.amazon.com/,"<input id=""add-to-cart-button"" name=""submit.add-to-cart"" title=""Add to Shopping Cart"" data-hover=""Select <b>__dims__</b> from the left<br> to add to Shopping Cart"" class=""a-button-input"" type=""submit"" value=""Add to Cart"" aria-labelledby=""submit.add-to-cart-announce"">",Add To Cart
+https://www.ebay.com/,"<a role=""button"" _sp=""p2047675.l1473"" id=""isCartBtn_btn"" style="""" class=""btn btn-ter  vi-VR-btnWdth-XL"" href=""https://cart.payments.ebay.com/sc/add?item=iid:324444999507,qty:1&amp;srt=01000700000050b626643e05859a75573d1145293a0fd82667b9b3a7c97cda2eef755602508a78bfe9052cac19dba7a8137dbc9251e5f7a5244d6b6f47b414aeeb09473eee9e2fea4e69db257054ba0f0d87e861831cf1&amp;ssPageName=CART:ATC"" vib=""vib"" rel=""nofollow"" ""="""">
+							Add to cart</a>",Add To Cart
+https://shop.bbc.com/,"<button class=""button button--primary button--block post-init"" name=""add"" type=""submit"" data-cy=""addToCart"" js-ajax-cart=""addToCart"" js-product-form=""addToCart"">
+        <span>
+          
+            
+              Add to Cart
+            
+          
+        </span>
+      </button>",Add To Cart
+https://www.aliexpress.com/,"<button title="""" type=""button"" class=""next-btn next-large next-btn-primary addcart"" role=""button"">Add to Cart</button>",Add To Cart
+https://www.amazon.co.uk/,"<input id=""add-to-cart-button"" name=""submit.add-to-cart"" title=""Add to Shopping Basket"" data-hover=""Select <b>__dims__</b> from the left<br> to add to Basket"" class=""a-button-input"" type=""submit"" value=""Add to Basket"" aria-labelledby=""submit.add-to-cart-announce"" formaction=""/cart/add-to-cart/ref=dp_start-bbf_1_glance"">",Add To Cart
+https://www.etsy.com/,"<button class=""wt-btn wt-btn--filled wt-width-full"" type=""submit"">
+            Add to basket
+
+</button>",Add To Cart
+https://www.walmart.com/,"<button class=""w_Bp w_Br w_Bw"" type=""button"" aria-label=""Add to cart - TWENTY FOUR Womens Checkered Tote Shoulder Bag with inner pouch - PU Vegan Leather&amp;nbsp;Shoulder Satchel Fashion Bags -Cream"" style=""position: relative;""><span style=""visibility: visible;"">Add to cart</span></button>",Add To Cart
+https://www.carrefour.com/en,"<button type=""button"" aria-label=""TO BUY"" class=""pl-button pl-button--primary add-to-cart__plus""><!----> <span class=""pl-button__label""><!----> <svg aria-hidden=""true"" class=""svg-icon svg-icon--m""><use xlink:href=""#i21""></use></svg></span> </button>",Add To Cart
+https://www.bestbuy.com/?intl=nosplash,"<button class=""c-button c-button-primary c-button-lg c-button-block c-button-icon c-button-icon-leading add-to-cart-button"" type=""button"" data-sku-id=""3972016"" data-button-state=""ADD_TO_CART"" style=""padding:0 8px""><svg aria-hidden=""true"" role=""img"" viewBox=""0 0 100 100"" style=""width:16px;height:16px;fill:currentColor;position:relative;margin-right:9px;top:min(0px, max(-8px, calc(100vw - 0px)))""><svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"" xml:space=""preserve""><path d=""M31.75 7.39a1.2 1.2 0 0 0-.96-.48H6.75L6 4.11a1.2 1.2 0 0 0-1.17-.9H1.21a1.2 1.2 0 1 0 0 2.41h2.7l4.35 16.24c.14.52.62.9 1.16.9h17.35a1.2 1.2 0 0 0 0-2.42H10.35l-.76-2.82h18.97a1.2 1.2 0 0 0 1.16-.9l2.24-8.18c.1-.36.02-.75-.2-1.05M13.13 23.96a2.42 2.42 0 1 0 0 4.83 2.42 2.42 0 0 0 0-4.83m10.95 0a2.42 2.42 0 1 0 0 4.83 2.42 2.42 0 0 0 0-4.83""></path></svg></svg>Add to Cart</button>",Add To Cart
+https://www.homedepot.com/,"<button class=""product-pod__add-to-cart bttn-outline bttn-outline--primary""><span class=""bttn__content"">Add to Cart</span></button>",Add To Cart
+https://www.target.com/,"<button type=""button"" aria-label=""Add Basic Reusable Tote Bag Red to cart"" data-test=""addToCartButton"" id=""addToCartButtonOrTextIdFor47679797"" class=""BaseButton-sc-3v3oog-0 ButtonPrimary-sc-9wgfzx-0 gcGvjK hcoLgH"">Add to cart</button>",Add To Cart
+https://www.wayfair.com/,"<button class=""pl-Button pl-Button--secondary pl-Button--fullWidth"" type=""button"" data-hb-id=""Button"" data-enzyme-id=""internalTest/framework.listButton.hollowButton""><span class=""pl-Button-content""><span class=""vdvxm0"" data-hb-id=""VisuallyHidden"">Save this item to your list</span><div class=""Heart Heart-hollow"" data-platform-test-id=""internalTest/presentation.favorites.listbutton.heart""><svg focusable=""false"" viewBox=""2 2 24 24"" class=""pl-BaseIcon BaseIcon pl-BaseIcon--scalable Heart-icon"" aria-hidden=""true"" data-hb-id=""pl-icon""><path d=""M18.37 5.5A5.08 5.08 0 0014 8.05 5.08 5.08 0 009.63 5.5a5.2 5.2 0 00-5.13 5.26 5.34 5.34 0 001.29 3.45l7.85 8.14a.51.51 0 00.72 0l7.88-8.17a5.33 5.33 0 001.26-3.42 5.2 5.2 0 00-5.13-5.26z""></path></svg></div></span></button>",Add To Cart
+https://store.steampowered.com/,"<a data-panel=""{&quot;focusable&quot;:true,&quot;clickOnActivate&quot;:true}"" class=""btn_green_steamui btn_medium"" href=""javascript:addToCart(675026);"" id=""btn_add_to_cart_675026"">
+								<span>Add to Cart</span>
+							</a>",Add To Cart
+https://www.nike.com/gb/,"<button aria-label=""Add to Cart"" class=""ncss-btn-primary-dark btn-lg add-to-cart-btn""> <font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to Cart</font></font></button>",Add To Cart
+https://www.costco.com/,"<input type=""button"" id=""add-to-cart-btn"" automation-id=""addToCartButton"" name=""add-to-cart"" value=""Add to Cart"" class=""primary-button-v2"">",Add To Cart
+https://www2.hm.com/en_gb/index.html,"<button class=""item button fluid button-big button-buy"" data-not-added-text=""You need to select an available size"" data-added-text=""Item added"" data-shopping-bag-text=""Shopping bag"" data-shopping-bag-failed-text=""Oops, something went wrong adding this item to the shopping bag"" data-quantity-text=""Quantity"" data-color-text=""Colour"" data-size-text=""Size"" data-default-quantity=""1"" data-sold-out-text=""Out of stock"" data-not-added-sold-out-text=""All sizes for this colour are sold out"">
+							       	<span class=""icon icon-shopping-bag-white"">
+							            Add</span>
+								</button>",Add To Cart
+https://www.newegg.com/,"<button class=""btn btn-primary btn-wide"" title=""Add Everki Charcoal 16&quot; Advance Laptop Bag / Briefcase Model EKB407NCH to cart"">Add to cart <i class=""fas fa-caret-right""></i></button>",Add To Cart
+https://www.macys.com/,"<button id=""bag-add-10517329"" class=""expanded"" data-type=""cta"" data-action=""product:bag:add"" data-auto=""add-to-bag"">Add to bag</button>",Add To Cart
+https://www.bhphotovideo.com/,"<button data-selenium=""addToCartButton"" class=""atcBtn__CIoO9tqI0 toCartBtn_FQmjNw06yv buttonTheme_FaBO4oOJAp"">Add to Cart</button>",Add To Cart
+https://www.americanexpress.com/,"<button type=""submit"" title=""Add to Cart"" class=""action tocart primary"">
+                                <span>Add to Cart</span>
+                            </button>",Add To Cart
+https://www.redbubble.com/,"<button type=""button"" data-testid=""standardAddToCartButton"" class=""styles__button--2oYLO styles__primary--1hLLD styles__fluid--1tvHX styles__strong--U_14i styles__inverse--WwlGU styles__large--2mbak""><span class=""styles__iconBefore--3B115""><span style=""color:currentColor"" class=""styles__svg--1vlcU styles__medium--1VBWz""><svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 24 24"" fill=""currentColor""><circle cx=""8"" cy=""20"" r=""2""></circle><circle cx=""18"" cy=""20"" r=""2""></circle><path d=""M19 17H7a1 1 0 01-1-.78L3.2 4H2a1 1 0 010-2h2a1 1 0 011 .78L7.8 15h10.4L20 6.78a1 1 0 012 .44l-2 9a1 1 0 01-1 .78z""></path><path d=""M16 6h-2V4a1 1 0 00-2 0v2h-2a1 1 0 000 2h2v2a1 1 0 002 0V8h2a1 1 0 000-2z""></path></svg></span></span><span class=""styles__children--21o3C""><span>Add to cart</span></span></button>",Add To Cart
+https://us-store.msi.com/,"<button type=""button"" class=""btn btn-sm float-right add-cart-button-2"" onclick=""cart.add('882');"">ADD TO CART</button>",Add To Cart
+https://www.carrefour.fr/p/pain-boule-bio-carrefour-bio-2023040000050,"<button type=""button"" aria-label=""TO BUY"" class=""pl-button pl-button--primary add-to-cart__plus""><!----> <span class=""pl-button__label""><span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">TO BUY</font></font></span> <svg aria-hidden=""true"" class=""svg-icon svg-icon--m""><use xlink:href=""#i21""></use></svg></span> </button>",Add To Cart
+https://www.uniqlo.com/eu/en/home,"<button type=""button"" title=""Add to bag"" value=""Add to bag"" class=""productvariantcontent__button  js-summaryBarScrollTrigger js_addToCartBtn  js_PdpAddToCartButton"" data-isregisterinterest=""false"" data-out-of-stock=""Out of Stock"" data-add-to-bag=""Add to bag"" data-only-available=""Only # available"" data-backinstockmessage=""Email me when available"" data-masterproductid=""447918"" data-addtocartmessage=""Add to bag"" data-registerinteresttext=""Remind me"">
+<svg class=""productvariantcontent__icon productvariantcontent__icon--cart js_pdpIconCart "">
+<use xlink:href=""https://www.uniqlo.com/on/demandware.static/Sites-EU-Site/-/default/dwcc8d72a8/images/icon-sprite.svg#icon_bag""></use>
+</svg>
+<span class=""productvariantcontent__buttonText"">Add to bag</span>
+</button>",Add To Cart
+https://www.cdiscount.com/,"<input class=""btGreen btS jsValidForm"" onclick=""return $(this.form).addToBasket()"" type=""button"" value=""Ajouter au panier"">",Add To Cart
+https://www.nintendo.com/,"<button class=""Buttonstyles__Button-sc-63wrer-1 hMYaJt""><svg data-name=""Shopping cart"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"" width=""24"" role=""presentation"" alt="""" data-testid=""ShoppingCartIcon"" color=""currentColor"" size=""24""><path fill=""currentColor"" d=""M23.12 28.073a2.248 2.248 0 1 0 2.25-2.326h-.005a2.288 2.288 0 0 0-2.245 2.326zm2.397-7.29a1.728 1.728 0 0 0 1.498-.982l4.844-11.686a1.544 1.544 0 0 0-.15-1.551 1.593 1.593 0 0 0-1.349-.673H8.44l-.55-2.895A1.494 1.494 0 0 0 6.393 1.6H1.598A1.606 1.606 0 0 0 0 3.255a1.548 1.548 0 0 0 1.598 1.654h3.496L7.49 18.973l-1.098 4.706a1.67 1.67 0 0 0 .25 1.395 1.529 1.529 0 0 0 1.198.673h18.675a1.656 1.656 0 0 0 0-3.31H9.937l.4-1.654zm-18.726 7.29a2.248 2.248 0 1 0 2.25-2.326h-.005a2.288 2.288 0 0 0-2.245 2.326z""></path></svg><span class=""Buttonstyles__Span-sc-63wrer-0 gUkGxX"">Add to cart</span></button>",Add To Cart
+https://www.humblebundle.com/,"<div class=""price-button js-price-button"">
+  <span class=""price"">€14.99</span>
+
+  <i class=""hb hb-shopping-cart-solid""></i>
+  <span class=""add-text"">Add</span>
+  <span class=""buy-text"">Buy</span>
+
+</div>",Add To Cart
+http://www.auction.co.kr/,"<button class=""btn_cart"" onclick=""javascript:ItemOrderButtons.addCart('A951152989','False','Top'); pvprofiler.sendEvt('click', '100000461', 'Utility');"" data-montelena-acode=""100000461"" type=""button"">????</button>",Add To Cart
+https://www.shutterfly.com/,"<a id=""addToCartLink"" class=""primaryButton"" tabindex=""0"" draggable=""false"">Add
+                to Cart</a>",Add To Cart
+https://www.walgreens.com/,"<button id=""receiveing-addToCartbtn"" aria-label=""Add to cart for shipping. Opens simulated dialog."" class=""btn btn__blue wag-new-cart-btn"" data-reactid=""166""><strong data-reactid=""167"">Add for shipping</strong></button>",Add To Cart
+https://www.bedbathandbeyond.com/,"<button type=""submit"" data-test=""pdpFacetBtnDeliverIt-5482257"" data-origin=""cart5482257"" class=""s12 btn btnLrg btnPrimary skuRollup"" data-amp-bind-hidden=""!skuFacets5482257.skuId || (features.sitePreorder &amp;&amp; false)"" i-amphtml-binding="""" i-amphtml-key=""247"">   Add to Cart  </button>",Add To Cart
+https://shein.com/,"<button class=""S-button bUqVNB S-button__block S-button__default S-button__H36PX"" value="""" style=""width: 100%; min-width: auto;""><!---->
+      Add To Bag
+    </button>",Add To Cart
+https://www.sephora.com/,"<button data-at=""add_to_basket_btn"" class=""css-xbdura eanm77i0"" type=""button"" data-comp=""AddToBasketButton StyledComponent BaseComponent ""><span class=""css-1ljvjox eanm77i0"" data-comp=""StyledComponent BaseComponent "">Add to Basket<span class=""css-1901pih eanm77i0"" data-comp=""StyledComponent BaseComponent "">for Standard Shipping</span></span></button>",Add To Cart
+https://www.boohoo.com/,"<button class=""b-product_addtocard b-button m-width_full "" type=""button"" data-widget=""processButton"" data-event-click=""handleClick"" data-ref=""addToCart"" data-id=""addToCart"" data-stock=""1.0"" data-is-out-of-stock=""false"" data-pid=""DZZ46097-105-35"" data-is-sticky-cta=""false"" data-product-type=""variant"" data-processing-class=""m-processing"" data-processing-label=""Processing.."" data-not-ready-label=""Select size"" data-add-to-cart-label=""Add to cart"" data-tau=""product_addToCart"" data-tau-product-id=""DZZ46097-105-35"" data-widget-event-click=""addToCart"" data-add-to-cart-url=""/on/demandware.store/Sites-boohoo-UK-Site/en_GB/Cart-AddProduct"" data-initialized=""1"">
+<span class=""b-product_addtocard-availability"" data-ref=""container"">
+Add to cart
+</span>
+</button>",Add To Cart
+https://www.asos.com/?,"<button data-bind=""click: addToBag, css : buttonCss, attr: { 'aria-label': resources.pdp_cta_add_to_bag, disabled: isBusy }, markAndMeasure: 'pdp:add_to_bag_interactive'"" data-test-id=""add-button"" id=""product-add-button"" aria-label=""Add to bag"">
+        <span class=""product-tick"" data-bind=""visible: showProductTick"" style=""display: none;""></span>
+        <span data-bind=""text: buttonText"">Add to bag</span>
+    </button>",Add To Cart
+https://www.rei.com/,"<button data-v-bb6d72de="""" type=""button"" class=""cdr-button_11-3-1 cdr-button--primary_11-3-1 cdr-button--medium_11-3-1 cdr-button--full-width_11-3-1"" id=""add-to-cart-button"" data-ui=""product-buygrid-add2cart"" aria-haspopup=""dialog""><!---->
+    Add to cart  - $14.95
+  </button>",Add To Cart
+https://www.gamestop.com/,"<button class=""add-to-cart btn btn-primary add-to-cart-redesign"" data-pid=""B306705A"" id=""add-to-cart"" data-gtmdata=""{&quot;productInfo&quot;:{&quot;sku&quot;:&quot;B306705A&quot;,&quot;productID&quot;:&quot;B306705A&quot;,&quot;name&quot;:&quot;Blind Bag: FNAF Mystery Mini Figures S7 5 Pack Bundle&quot;,&quot;category&quot;:&quot;Toys &amp; Games/Blind Bags&quot;,&quot;brand&quot;:&quot;&quot;,&quot;subGenre&quot;:&quot;&quot;,&quot;platform&quot;:&quot;&quot;,&quot;condition&quot;:&quot;New&quot;,&quot;variant&quot;:&quot;New&quot;,&quot;genre&quot;:&quot;&quot;,&quot;availability&quot;:&quot;Available&quot;,&quot;productType&quot;:&quot;bundle&quot;,&quot;zoneSource&quot;:&quot;PDP&quot;,&quot;tradeinProductName&quot;:&quot;&quot;,&quot;programName&quot;:&quot;&quot;,&quot;tradeinOpted&quot;:&quot;&quot;},&quot;price&quot;:{&quot;sellingPrice&quot;:&quot;19.99&quot;,&quot;basePrice&quot;:&quot;24.95&quot;,&quot;currency&quot;:&quot;USD&quot;}}"">Add to Cart</button>",Add To Cart
+https://www.barnesandnoble.com/,"<input type=""submit"" value=""ADD TO CART "" class=""add-to-cart-button btn-addtocart btn-pdp-addtocart price-added btn btn--commerce mr-xs"">",Add To Cart
+https://www.fnac.com/,"<button data-automation-id=""product-buy-btn"" class=""ff-button--block ff-button--medium ff-button ff-button--orange js-ProductBuy-add"" data-tracking-price="""" data-tracking-price-discount="""" data-tracking-price-adh="""" data-tracking-price-mp=""3,20"" data-tracking-prid=""38650357"" data-tracking-offerid=""87d77e7c-1ef6-5641-7dcc-f03398d0b5ab"" data-tracking-catalogid=""3"">
+      
+      
+
+<svg class=""f-icon ff-button-icon icon f-buttonIcon-addBasket"" aria-hidden=""true"" role=""img"" focusable=""false"" height=""20"">
+  
+    <use xlink:href=""#icon_i_061_add_to_basket""></use>
+  
+</svg>
+
+      <span class=""ff-button-label"" data-automation-id=""product-buy-btn-label"">Ajouter au panier</span>
+    </button>",Add To Cart
+https://www.bodybuilding.com/en-MT/index,"<button type=""submit"" name=""add"" data-add-to-cart="""" class=""Button Button--primary""><!----> <span>
+        Add to Cart
+      </span></button>",Add To Cart
+https://www.6pm.com/,"<button type=""submit"" class=""Hs-z"" data-stock-id=""55861380"" data-track-action=""Product-Page"" data-track-label=""PrForm"" data-track-value=""Add-To-Cart"">Add to Shopping Bag</button>",Add To Cart
+https://www.urbanoutfitters.com/,"<button id=""add-to-cart-quickshop-uo-kez-baguette-bag"" data-qa-add-to-bag-button="""" type=""submit"" class=""o-pwa-button-cart"">
+
+    Add to Bag
+
+</button>",Add To Cart
+https://www.vans.eu/,"<button data-add-to-cart-text=""add to cart"" data-added-to-cart-text=""Added"" type=""button"" data-sticky-options=""{&quot;enabled&quot;:true, &quot;elementSelector&quot;: &quot;#product-attr-form #ecom-product-actions .add-to-bag-js&quot;, &quot;showFor&quot;: [&quot;xlarge&quot;, &quot;large&quot;, &quot;small&quot;, &quot;medium&quot;], &quot;location&quot;:{&quot;above&quot;: &quot;&quot;, &quot;inview&quot;: &quot;hide&quot;, &quot;below&quot;: &quot;hide&quot;}, &quot;customLocations&quot;:[{&quot;selector&quot;: &quot;footer.extended&quot;, &quot;state&quot;: &quot;hide&quot;}], &quot;img&quot;: {&quot;enabled&quot;: true, &quot;useMetaImage&quot;:true, &quot;label&quot;: &quot;Colour:&quot;, &quot;scrollOnClick&quot;: true}, &quot;productInfo&quot;: {&quot;enabled&quot;: true}, &quot;buttonText&quot;: &quot;Add to cart&quot;, &quot;productPrice&quot;: {&quot;enabled&quot;:true}, &quot;quantity&quot;: {&quot;enabled&quot;: false}, &quot;navigation&quot;: {&quot;enabled&quot;: false }, &quot;errorMessaging&quot; : {&quot;enabled&quot;: false}, &quot;signInButtonConfig&quot;: { &quot;enabled&quot;:true, &quot;hideStickyOnMobile&quot;: false}, &quot;productPromo&quot;: {&quot;enabled&quot;:true, &quot;selector&quot;: &quot;.product-promo&quot;}, &quot;sizeSelection&quot; : {&quot;label&quot;: &quot;SIZE (UK):&quot;, &quot;sizeAsSeparateContainer&quot;:true, &quot;displayEmpty&quot;:true, &quot;emptyValue&quot;: &quot;-&quot;, &quot;scrollOnClick&quot;: true}, &quot;scrollOnAddToCartAction&quot;: {&quot;enabled&quot;:true}, &quot;overrideConfig&quot;:{&quot;small&quot;:{&quot;favoritesButton&quot;:{&quot;enabled&quot;:false},&quot;scrollOnAddToCartAction&quot;:{&quot;enabled&quot;:false},&quot;img&quot;:{&quot;enabled&quot;:false},&quot;productInfo&quot;:{&quot;enabled&quot;:false},&quot;productPrice&quot;:{&quot;enabled&quot;:false},&quot;location&quot;:{&quot;above&quot;:&quot;bottom&quot;,&quot;inview&quot;:&quot;hide&quot;,&quot;below&quot;:&quot;hide&quot;},&quot;customLocations&quot;:[{&quot;selector&quot;: &quot;footer.extended&quot;, &quot;state&quot;: &quot;below&quot;}]}}}"" data-sticky-text=""add to cart"" class=""product-content-form-add-to-bag button add-to-bag primary add-to-bag-js"" data-sticky-select-size-label=""Choose your size"" aria-label=""add to cart"">add to cart</button>",Add To Cart
+https://store.acer.com/en-gb/?internal_source=mktg_hp-nav&internal_medium=link&internal_campaign=internal,"<button type=""submit"" title=""Add to Basket"" class=""action tocart primary button btn-cart"">
+                                                <span>Add to Basket</span>
+                                            </button>",Add To Cart
+https://www.elo7.com.br/,"<a href=""/cart/add-item/133BC0B?qrid=UjdaxkJJtWGR&amp;nav=sch_pd_sr_1_1&amp;quantityForm=0"" id=""add-to-cart"" title=""Clique para comprar o produto Cesto organizador de brinquedos pinceladas (bag)"" rel=""nofollow"" data-ga-tracker-category=""Produto"" data-ga-tracker-action=""addToCart"" data-ga-tracker-label=""133BC0B"" class=""btn btn-green btn-buy "">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+		<svg width=""22"" height=""18"" class="""">
+			
+			<image xlink:href=""https://images.elo7.com.br/assets/v3/mobile/svg/comprar-produto.svg"" src=""https://images.elo7.com.br/assets/v3/mobile/png/comprar-produto.png"" width=""22"" height=""18"" class=""""></image>
+		</svg>
+	
+
+
+	Comprar este produto
+</a>",Add To Cart
+https://shop.mango.com/mt/women,"<button class=""sg-s-btn add-cart"" id=""productFormAdd"" type=""button"">Add to shopping bag</button>",Add To Cart
+https://www.jarir.com/,"<button data-v-3a81a6fa="""" type=""button"" data-testid=""addToCart"" class=""button button--add-to-cart button--primary button--fluid"" aria-label=""??? ????? ????????"" title=""??? ????? ????????""><!----> <div class=""icon button__icon""><svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 22 22""><path d=""M1.408 0C.68 0 .085.604.085 1.342c0 .737.595 1.342 1.323 1.342A1.337 1.337 0 0 0 2.6.772a3 3 0 0 1 2.167 2.394l2.48 14.291a1.994 1.994 0 0 0 1.79 1.647 1.68 1.68 0 0 0-.352 1.022c0 .923.744 1.678 1.654 1.678a1.673 1.673 0 1 0 1.313-2.684h4.321a1.68 1.68 0 0 0-.34 1.006c0 .923.743 1.678 1.653 1.678s1.654-.755 1.654-1.678c0-.378-.13-.724-.34-1.006h1.663v-.67H9.204A1.326 1.326 0 0 1 7.9 17.34l-.448-2.58h10.586a2.326 2.326 0 0 0 2.252-1.801L22 5.735 5.65 4.382 5.42 3.05C5.112 1.288 3.6 0 1.835 0h-.428zM13.47 7.063c.254 0 .458.206.458.458v1.835h1.835a.458.458 0 1 1 0 .917h-1.835v1.834a.457.457 0 0 1-.458.459.457.457 0 0 1-.459-.459v-1.834h-1.834a.46.46 0 0 1 0-.917h1.834V7.52c0-.252.204-.458.459-.458z""></path></svg></div> <span class=""button__content button__content--with-icon"">
+  ??? ????? ????????
+</span> <!----></button>",Add To Cart
+https://www.ulta.com/,"<button data-nav-description=""Add To Bag"" aria-label=""Add To Bag"" type=""button"" class=""Button Button__primary Button--large Button--block""><span>Add To Bag</span></button>",Add To Cart
+https://www.sears.com/,"<button class=""button-primary"" type=""submit"" role=""button"" data-id=""addToCart"" data-analytics-title=""PDP > RHR > Add To Cart"" data-analytics-no-listen="""" style=""visibility: visible;"">
+                            
+                                
+                                    Add to Cart
+                                
+                            
+                        </button>",Add To Cart
+https://www.qvc.com/,"<button type=""button"" data-href=""https://www.qvc.com/AddToCart?storeId=10251&amp;catalogId=10151&amp;langId=-1&amp;orderId=.&amp;URL=OrderItemDisplay%3FupdatePrices%3D1%26calculationUsageId%3D-1%26orderId%3D.&amp;catentryResolver=nonTechnicalKey&amp;productNumber=A521244&amp;itemNumber=A521667&amp;colorCode=000&amp;sizeCode=000&amp;quantity=1&amp;errorViewName=ProdNotFoundView"" data-product-id=""A521244"" data-href-overlay-generic-error=""/info/popups/checkout/generic-error.html"" data-href-overlay-auto-delivery=""/info/popups/checkout/auto-delivery.A521244.html"" data-href-overlay-advanced-order=""/info/popups/checkout/advanced-order-confirmation.html"" data-action=""A"" class=""btn btn-primary btnAddToCart""><span>Add To Cart</span></button>",Add To Cart
+https://www.ifixit.com/,"<button type=""submit"" class=""button button--blue"" name=""add"" data-submit-button="""">
+            <span data-submit-button-text="""">
+              
+                Add to Cart
+              
+            </span>
+          </button>",Add To Cart
+https://uk.tommy.com/,"<button data-click-target="""" data-testid=""add-to-bag__add"" type=""button"" class=""Button Button__primary add-to-bag__add add-to-bag__add_3BB7m"" data-partnumber=""AW0AW109250GJ""><span>Add to bag</span></button>",Add To Cart
+https://www.hermes.com/us/en/,"<button _ngcontent-apollo-c100="""" class=""button-dark width-full"" type=""submit"" name=""add-to-cart"" id=""add-to-cart-button-in-stock-525ab6d6-9a22-46fa-936c-adcddd2a3b59""><!---->Add to cart<!----></button>",Add To Cart
+https://store.arduino.cc/,"<button type=""submit"" id=""button-add-to-cart"" class=""button-add-atc product-form--atc-button atc-button mdc-ripple-surface mdc-ripple-upgraded pn-button-1fqkrzvmxya"" data-shipping-limitations=""0"" data-product-atc="""">
+        <span class=""atc-button--text"">
+          
+            Add to cart
+          
+        </span>
+        <span class=""atc-button--icon""><svg aria-hidden=""true"" focusable=""false"" role=""presentation"" width=""26"" height=""26"" viewBox=""0 0 26 26"" xmlns=""http://www.w3.org/2000/svg"">
+  <g fill-rule=""nonzero"" fill=""currentColor"">
+    <path d=""M13 26C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13-5.82 13-13 13zm0-3.852a9.148 9.148 0 1 0 0-18.296 9.148 9.148 0 0 0 0 18.296z"" opacity="".29""></path><path d=""M13 26c7.18 0 13-5.82 13-13a1.926 1.926 0 0 0-3.852 0A9.148 9.148 0 0 1 13 22.148 1.926 1.926 0 0 0 13 26z""></path>
+  </g>
+</svg></span>
+      </button>",Add To Cart
+https://grifo210.com/en/,"<button type=""submit"" title=""Add to Cart"" class=""action primary tocart no-extra-ue-hide btn-fix"" id=""product-addtocart-button"">
+                <span class="""">Add to Cart</span>
+<!--                <span class=""mobile-only-1280"">--><!--</span>-->
+            </button>",Add To Cart
+https://www.mediamarkt.de/,"<button type=""button"" class=""StyledButton-sc-140xkaw-1 iGxCxO StyledButton-sc-1bveayl-0 gvJvME"" id=""pdp-add-to-cart-button"" data-test=""a2c-Button""><div width=""24"" height=""24"" class=""Icon-sc-1vrq823-0 iMdSTb""><svg width=""32"" height=""32"" viewBox=""0 0 24 24""><path d=""M20 20a2 2 0 1 1-2-2 2 2 0 0 1 2 2zM8 18a2 2 0 1 0 2 2 2 2 0 0 0-2-2zM21.5 4H5.72l-.56-1a2 2 0 0 0-1.74-1H2.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h.92l4.28 7.49a2.19 2.19 0 0 0 .27.35l-1.86 3.7a.77.77 0 0 0 0 .71l.22.38A.76.76 0 0 0 7 17h12.5a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5H8.62l1-2.09a2.74 2.74 0 0 0 .64.09h6.23A2.94 2.94 0 0 0 19 11.49l2.35-4.13A4.76 4.76 0 0 0 22 5v-.5a.5.5 0 0 0-.5-.5z""></path></svg></div><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">in the cart</font></font></button>",Add To Cart
+https://www.ae.com/us/en,"<button class=""btn btn-primary qa-btn-add-to-bag   qa-add-to-bag btn-block"" name=""addToBag"" type=""submit"">
+  
+          Add to Bag
+        
+</button>",Add To Cart
+https://www.cabelas.com/shop/en,"<a id=""SKU_List_Widget_Add2CartButton_3074457345619549378_table"" aria-label=""Add to Cart Button for P&amp;D Metal Works Whitetail Campfire Ring - 48&quot; dia. x 12&quot;H "" class=""btn primary chartcomposerprimary left pdp_chart_addtocart_button ss125"" onkeypress=""javascript: if (typeof onBehalfUtilitiesJS == 'undefined') {MessageHelper.setFocusElement('SKU_List_Widget_Add2CartButton_3074457345619549378_table');} else if (onBehalfUtilitiesJS.csrProceedCheck()) {MessageHelper.setFocusElement('SKU_List_Widget_Add2CartButton_3074457345619549378_table');} else {MessageHelper.displayErrorMessage(MessageHelper.messages['ERROR_CSR_USER_PROCEED']);}"" href=""javascript: if (typeof onBehalfUtilitiesJS == 'undefined') {setCurrentId('SKU_List_Widget_Add2CartButton_3074457345619549378_table');updateDefaultQuantity3074457345619549378();NewChartComposerDetailJS.addSkus2ShopCartAjax('3074457345619540195','3074457345619549378',productDisplayJS.getPersonalizationParams());} else if (onBehalfUtilitiesJS.csrProceedCheck()) {setCurrentId('SKU_List_Widget_Add2CartButton_3074457345619549378_table');updateDefaultQuantity3074457345619549378();NewChartComposerDetailJS.addSkus2ShopCartAjax('3074457345619540195','3074457345619549378',productDisplayJS.getPersonalizationParams());} else {MessageHelper.displayErrorMessage(MessageHelper.messages['ERROR_CSR_USER_PROCEED']);} "">Add to Cart</a>",Add To Cart
+https://eu.gymshark.com/,"<button id=""add-to-cart_cta_pdp"" class=""Styles__Button-sc-1kpnvfh-4 cfXdbv"" type=""button""><svg class=""Styles__CartIcon-sc-1swafzl-1 duVsMV"" width=""50px"" height=""50px"" viewBox=""0 0 50 50"" version=""1.1"" xmlns=""http://www.w3.org/2000/svg"" role=""img"" aria-labelledby=""42610410-50f9-40c2-864b-1ca2bc18d9e9""><title id=""42610410-50f9-40c2-864b-1ca2bc18d9e9"">Cart</title><g stroke=""none"" stroke-width=""1"" fill=""none"" fill-rule=""evenodd""><path d=""M45,14.8732257 L36.081895,14.8732257 L36.081895,11.4774544 C36.081895,5.14878873 31.3357722, 0 25.5019853,0 C19.668463,0 14.9228697,5.14878873 14.9228697,11.4774544 L14.9228697,14.8732257 L6, 14.8732257 L6,50 L45,50 L45,14.8732257 Z M21,12.254649 C21,7.89394064 23.4326972,6 26.4655326, 6 C29.498368,6 32,7.89394064 32,12.254649 L32,16 L21,16 L21,12.254649 Z"" fill=""#000000""></path></g></svg>Add to bag<span class=""Styles__Overlay-sc-1kpnvfh-1 fnrLCk""><svg class=""Styles__Tick-sc-1kpnvfh-3 hWqErW"" viewBox=""0 0 50 50"" version=""1.1"" xmlns=""http://www.w3.org/2000/svg"" role=""img"" aria-labelledby=""b6cc1b78-5879-4bdc-9f1c-2993cd89fc85""><title id=""b6cc1b78-5879-4bdc-9f1c-2993cd89fc85"">Tick</title><g stroke=""none"" stroke-width=""1"" fill=""none"" fill-rule=""evenodd""><polygon fill=""#FFFFFF"" fill-rule=""nonzero"" points=""14.6553946 35.392902 5.19935444 25.8272493 0 31.0869305 12.4784711 43.7100827 12.4927896 43.6954946 14.7708631 46 50 10.3619014 44.6998024 5""></polygon></g></svg><svg xmlns=""http://www.w3.org/2000/svg"" class=""Styles__Loading-sc-1kpnvfh-2 dgVlnO"" width=""24"" height=""24"" viewBox=""0 0 24 24"" role=""img"" aria-labelledby=""b264cae5-5b9a-4cfa-939a-80168287bd97""><title id=""b264cae5-5b9a-4cfa-939a-80168287bd97"">Loading</title><g fill=""none"" fill-rule=""evenodd"" stroke=""none"" stroke-width=""1""><path fill=""#000"" d=""M12 5.25v1.5a5.25 5.25 0 105.246 5.466L17.25 12h1.5a6.75 6.75 0 11-6.987-6.746L12 5.25z""></path></g></svg></span></button>",Add To Cart
+https://shop.lululemon.com/,"<button class=""button-qfnRT lll-text-button purchase-methods_addToBag__1O17H buttonPrimary-1m-xO buttonBlock-3QinT"" aria-disabled=""false"" type=""button"" data-lulu-track=""pdp-add-to-bag-regular-enabled"">Add to Bag</button>",Add To Cart
+https://www.jcrew.com/mt/,"<button data-qaid=""pdpProductActionsAddToBagButton"" id=""btn__add-to-bag-wide"" class=""ProductActions__add-to-bag___2-5IR QuickshopContainer__add-to-bag___33NG2 ProductActions__wide___1z0xL"" type=""button"" aria-label=""Add to Bag"" aria-describedby=""c-product__message""><span>Add to Bag</span></button>",Add To Cart
+https://www.harrods.com/en-mt/,"<button id=""addToBag-button"" type=""button"" data-test=""addToBag-button"" class=""e45gxny4 ejvxan30 css-zojf6a e1x2nzqn0"" style=""transform: scale(1);""><span class=""css-70qvj9 ejvxan31"" style=""opacity: 1;"">Add to bag</span></button>",Add To Cart
+https://front.wemakeprice.com/main,"<button class=""btn_sys big_xl cart"" data-option-btn=""cart"" data-gtm-category=""PC_??"" data-gtm-label=""????"" data-gtm-action=""????_??"" data-gtm-vis-first-on-screen-8207576_2001=""991"" data-gtm-vis-total-visible-time-8207576_2001=""100"" data-gtm-vis-has-fired-8207576_2001=""1""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">shopping basket</font></font></button>",Add To Cart
+https://www.jbhifi.com.au/,"<button type=""button"" class=""Button-module_jbclBtn__HwYX1 Button-module_jbclBtn__primary__QQ-Lr Button-module_jbclBtn__fullWidth__AlpoW pdp-jss96"" data-state=""default""><span><svg width=""26"" height=""17"" fill=""none"" xmlns=""http://www.w3.org/2000/svg""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M25.535 2.92a.374.374 0 00-.283-.097H10.286l-.41-1.786c-.034-.16-.192-.275-.378-.275H7.136a.42.42 0 00-.28.1.32.32 0 000 .488.42.42 0 00.28.1h2.032l1.922 8.373c.263 1.124 1.394 1.934 2.71 1.939h9.086c.21-.008.377-.16.377-.344 0-.184-.167-.336-.377-.343h-9.087c-.941-.004-1.75-.584-1.938-1.39l-.157-.672h10.57c.976-.032 1.792-.658 1.954-1.499l1.421-4.25v-.069a.304.304 0 00-.114-.275zm-12.12 13.842c1.23 0 2.225-.896 2.225-2 0-1.105-.996-2-2.224-2-1.229 0-2.225.895-2.225 2 0 1.104.996 2 2.225 2zm7.787 0c1.229 0 2.225-.896 2.225-2 0-1.105-.996-2-2.225-2-1.228 0-2.225.895-2.225 2 0 1.104.997 2 2.225 2zM4.328 8.878h1.438c.524.014.949.39.976.863-.01.472-.43.851-.95.858H4.354v1.302c-.016.47-.432.846-.95.86-.52-.006-.942-.387-.95-.86V10.6H1.018c-.52-.007-.94-.386-.95-.858a.77.77 0 01.278-.597.946.946 0 01.672-.22H2.43V7.624a.804.804 0 01.273-.614.984.984 0 01.677-.247c.521.008.941.389.949.86v1.256z"" fill=""#fff""></path></svg></span><span>Add to cart</span><span class=""pdp-jss98""><svg width=""26"" height=""17"" fill=""none"" xmlns=""http://www.w3.org/2000/svg""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M25.535 2.92a.374.374 0 00-.283-.097H10.286l-.41-1.786c-.034-.16-.192-.275-.378-.275H7.136a.42.42 0 00-.28.1.32.32 0 000 .488.42.42 0 00.28.1h2.032l1.922 8.373c.263 1.124 1.394 1.934 2.71 1.939h9.086c.21-.008.377-.16.377-.344 0-.184-.167-.336-.377-.343h-9.087c-.941-.004-1.75-.584-1.938-1.39l-.157-.672h10.57c.976-.032 1.792-.658 1.954-1.499l1.421-4.25v-.069a.304.304 0 00-.114-.275zm-12.12 13.842c1.23 0 2.225-.896 2.225-2 0-1.105-.996-2-2.224-2-1.229 0-2.225.895-2.225 2 0 1.104.996 2 2.225 2zm7.787 0c1.229 0 2.225-.896 2.225-2 0-1.105-.996-2-2.225-2-1.228 0-2.225.895-2.225 2 0 1.104.997 2 2.225 2zM4.328 8.878h1.438c.524.014.949.39.976.863-.01.472-.43.851-.95.858H4.354v1.302c-.016.47-.432.846-.95.86-.52-.006-.942-.387-.95-.86V10.6H1.018c-.52-.007-.94-.386-.95-.858a.77.77 0 01.278-.597.946.946 0 01.672-.22H2.43V7.624a.804.804 0 01.273-.614.984.984 0 01.677-.247c.521.008.941.389.949.86v1.256z"" fill=""#fff""></path></svg>Added!</span><span class=""pdp-jss97""><div class=""pdp-MuiCircularProgress-root pdp-MuiCircularProgress-colorSecondary pdp-MuiCircularProgress-indeterminate"" role=""progressbar"" style=""width: 30px; height: 30px;""><svg class=""pdp-MuiCircularProgress-svg"" viewBox=""22 22 44 44""><circle class=""pdp-MuiCircularProgress-circle pdp-MuiCircularProgress-circleIndeterminate"" cx=""44"" cy=""44"" r=""20.2"" fill=""none"" stroke-width=""3.6""></circle></svg></div></span></button>",Add To Cart
+https://uk.jbl.com/home?countrySelector=yes&ged=off,"<button class=""btn btn-default btn-block add-to-cart btn_primary_ADA"" id=""add-to-cart"" type=""button"" title=""Add to Cart"" value=""Add to Cart"" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_636=""1"" data-gtm-vis-has-fired-7462654_621=""1"">
+					<span class=""btn_ADA"" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_636=""1"" data-gtm-vis-has-fired-7462654_621=""1"">
+					<i class=""icon-cart"" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_636=""1"" data-gtm-vis-has-fired-7462654_621=""1""></i>
+					
+	 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+
+
+
+
+
+
+ 
+	
+					</span>
+				</button>",Add To Cart
+https://www.leam.com/it_eu/,"<button type=""button"" title=""Add to Cart"" class=""button btn-cart2"" onclick=""productAddToCartForm.submit(this)"">
+			<span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to Cart</font></font></span></button>",Add To Cart
+https://www.prettylittlething.com/?refresh=1647018715474,"<button data-id=""1645587"" id=""add-to-bag"" type=""button"" title=""Add to Bag"" class=""btn product-add analytics-tracking js-select-addtocartbutton"" data-event-category=""Product"" -event-action=""Add To Bag"" data-event-label=""Blue Marble Print Slinky Halterneck Cut Out Bodycon Dress"">Add To Bag</button>",Add To Cart
+https://www.alibris.com/,"<button class=""btn btn-lg btn-main add-cart"" aria-label=""add to cart overlay"" data-toggle=""modal"" id=""btn-item-add-to-cart-17128146846"" onclick=""javascript:showOverlay('17128146846', '50658589', '9781338535624', '', false, '');"">Add to Cart</button>",Add To Cart
+https://colourpop.com/,"<input type=""submit"" class=""btn"" value=""Add to Bag"">",Add To Cart
+https://www.staples.ca/,"<button class=""button button--submit product-form__button"" type=""submit""><div>Add To Cart</div></button>",Add To Cart
+https://www.leroymerlin.fr/,NaN,Add To Cart
+https://eu.cettire.com/,"<button id=""product-detail--add-cart-button"" class=""_3fU5wGy5KSP1_eZPk5JtcM""><span class="""">Add to bag</span><svg class=""_9tGyXrbJ04vWJ0GMrQaMW"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 20 20""><path d=""M20 10c0 5.523-4.477 10-10 10S0 15.523 0 10 4.477 0 10 0v2c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8h2z""></path></svg><svg class=""_3u0XFjGPBNSXwuh2yF8W24"" width=""32"" height=""32"" viewBox=""0 0 32 32"" fill=""none""><path class=""vpSR2fTeWJ3PmPFLmzNE"" d=""M6 18L11 23L25 9"" stroke=""white"" stroke-width=""2""></path></svg></button>",Add To Cart
+https://www.pacsun.com/,"<button data-click_name=""Add to Bag"" class=""js-add-to-cart add-to-cart btn btn-primary"" data-toggle=""modal"" data-target=""#chooseBonusProductModal"" data-pid=""0784454210085"" data-is-orderable=""false"" data-variant-selections=""[{&quot;id&quot;:&quot;size&quot;,&quot;isSelected&quot;:false,&quot;displayName&quot;:&quot;Size&quot;},{&quot;id&quot;:&quot;color&quot;,&quot;isSelected&quot;:true,&quot;displayName&quot;:&quot;Color&quot;,&quot;selectedValue&quot;:&quot;510&quot;}]"" data-pname=""Cargo Carpenter Jeans"" data-brand=""PacSun Kids"" data-price=""39.95"" data-quantity=""1.0"" data-category=""kids-pants"" data-product_color=""LIGHT INDIGO"" data-bopis=""no"" data-discount=""$0.00"" data-product_sku=""0784454210085"" data-markdown_type=""regular price discount"" data-order_type=""standard order"" data-flag="""">
+Add to Bag
+</button>",Add To Cart
+https://www.woolworths.com.au/,"<button _ngcontent-serverapp-c64="""" type=""button"" class=""cartControls-addButton button button--primary _outOfTrolleyFocus""><span _ngcontent-serverapp-c64="""" class=""cartControls-addCart""> Add to cart <i _ngcontent-serverapp-c64="""" aria-hidden=""true"" class=""cartControls-cartIcon iconShop-Cart-Filled""></i></span></button>",Add To Cart
+https://www.jomashop.com/,"<button type=""button"" class=""add-to-cart-btn btn btn-primary""><span>Add to Bag</span></button>",Add To Cart
+https://www.net-a-porter.com/en-mt/,"<button class=""Button10 Button10--primary AsyncButton10 CTAButtons84__addToBag primaryButton"" aria-label=""Add to Bag"">Add to Bag</button>",Add To Cart
+https://www.forever21.com/,"<button class=""product-add__button add-to-cart button button--primary set--w-100 font-weight--bold text-transform--uppercase"" data-pid=""20004616240101"" data-product-component=""add-button"" onclick=""if (!window.__cfRLUnblockHandlers) return false; getRecaptchaToken(event, '6Lca8M0UAAAAAKjc5JpX2z3SlH3P7gcKDiRJ5tXi', 'addegift');"" onmouseover=""if (!window.__cfRLUnblockHandlers) return false; getRecaptchaToken(event, '6Lca8M0UAAAAAKjc5JpX2z3SlH3P7gcKDiRJ5tXi', 'addegift');"" onfocus=""if (!window.__cfRLUnblockHandlers) return false; getRecaptchaToken(event, '6Lca8M0UAAAAAKjc5JpX2z3SlH3P7gcKDiRJ5tXi', 'addegift');"" ontouchstart=""getRecaptchaToken(event, '6Lca8M0UAAAAAKjc5JpX2z3SlH3P7gcKDiRJ5tXi', 'addegift');"" data-add-ready="""">
+Add to Cart
+</button>",Add To Cart
+https://fineartamerica.com/,"<button type=""button"" id=""buttonaddtocart"" onclick=""globalAddToCartUniqueId('1628ea5096d2416447810', '/featured/fresh-paint-2-jane-davies.html?product=wood-print', 1);"">ADD TO CART</button>",Add To Cart
+https://www.lush.com/uk/en,"<button data-test=""add-to-basket-button"" class=""button__Element-sc-93eftx-0 eBpaMl pBasicInfoAddToBagButtonstyles__AddButton-sc-1qx6aas-1 notranslate"" type=""button""><div class=""box__Box-sc-1fis1rt-0 pBasicInfoPrice__IconBagWrap-sc-3flwmc-0 iEgGeX hzMcYo""><svg width=""1em"" height=""1em"" viewBox=""0 0 20 25"" focusable=""false"" role=""presentation"" aria-hidden=""true"" name="""" class=""box__Box-sc-1fis1rt-0 _icon-constructor__Svg-sc-1rjim1r-0 fniLFO qDJwA""><path fill=""currentColor"" d=""M2,22.5L3,8.3h2.2v3.4c0,0.5,0.4,0.8,0.9,0.8s0.9-0.4,0.9-0.8V8.3h6.5v3.4c0,0.5,0.4,0.8,0.9,0.8 c0.5,0,0.9-0.4,0.9-0.8V8.3h2.1l1,14.2H2z M6.8,5c0-1.7,1.4-3.1,3.2-3.1s3.2,1.4,3.2,3.1v1.7H6.8V5z M18.8,7.3L18.8,7.3L18.8,7.3 c0-0.5-0.4-0.8-0.9-0.8h-3V4.8C15,2.2,12.7,0,10,0C7.2,0,5,2.2,5,4.8v1.7H2c-0.4,0-0.8,0.3-0.9,0.8L0,23.3c0,0.2,0.1,0.4,0.2,0.6 c0.1,0.2,0.4,0.3,0.7,0.3h18.3c0.3,0,0.5-0.1,0.6-0.2c0.2-0.2,0.3-0.4,0.2-0.6L18.8,7.3z""></path></svg></div>Add to bag - £20.00</button>",Add To Cart
+https://www.eu.forzieri.com/,"<button type=""submit"" class=""btn btn--primary gaq"" id=""btnAdd"" data-gaq=""[&quot;_trackEvent&quot;, &quot;Buttons&quot;, &quot;Add to shopping bag&quot;, &quot;product_view&quot;]"">
+									Add to shopping bag
+								</button>",Add To Cart
+https://www.packtpub.com/,NaN,Add To Cart
+https://www.underarmour.com/en-us/,"<button class=""js-add-to-cart g-button_base g-button_tertiary b-add_to_bag-cta"" data-pid=""195252615321"" data-added-msg=""Added"" data-add-another=""Add Another"" data-addto-bag=""Add to Bag"" data-pre-order=""Pre Order"" data-coming-soon=""Coming Soon"" data-is-coming-soon=""false"" exclusive-oos=""false"" data-oos=""Out Of Stock"">
+Add to Bag
+</button>",Add To Cart
+https://www.hsn.com/,"<input data-object-id=""20440703"" data-object-webmid=""10087314"" data-isasis=""0"" data-isalcohol=""0"" type=""submit"" data-ispreorder=""0"" value=""Add To Bag"" class=""add-to-bag"" onclick=""cmCreateManualLinkClickTag('product-add-to-bag?cm_re=ProductPage-_-AddToBag-_-NA&amp;cm_sp=ProductPage-_-AddToBag-_-NA', 'AddToBag') "" tabindex=""-1"" style=""position: absolute; left: -9999px;"">",Add To Cart
+https://stylesforless.com/,"<button type=""button"" class=""add-to-cart-btn btn btn-primary""><span>Add to Bag</span></button>",Add To Cart
+https://www.abebooks.com/,"<a id=""add-to-basket-link"" class=""btn-abebooks btn-add-to-basket btn-muted"" href=""/servlet/ShopBasketPL?ac=a&amp;it=1&amp;ik=10346728858&amp;cm_sp=add-_-bdp-_-bsk&amp;bdpimage=bseller&amp;cmtrack_data="">
+                  <i></i>Add to basket
+                </a>",Add To Cart
+https://www.harborfreight.com/,"<button aria-label="""" class=""button__button--Gw2YBc buttonPrimary buttonLarge productActionButton button__buttonPrimary--tRVCwJ"" name="""" type=""button"" data-dy-event-attached=""true"">Add to Cart</button>",Add To Cart
+https://www.joann.com/,"<button class=""product-add__button add-to-cart button button--primary set--w-100"" data-pid=""18513010"" data-product-set="""" data-component=""add-btn"" data-product-component=""add-button"" data-url=""/on/demandware.store/Sites-JoAnn-Site/default/Cart-AddProduct"" data-store-id="""" data-gtm-vis-recent-on-screen-31201899_49=""3898"" data-gtm-vis-first-on-screen-31201899_49=""3898"" data-gtm-vis-total-visible-time-31201899_49=""100"" data-gtm-vis-has-fired-31201899_49=""1"">
+            ADD TO BAG FOR SHIPPING
+        </button>",Add To Cart
+https://www.kobo.com/,"<button type=""button"" class=""purchase-action add-to-cart"" data-track-info=""{&quot;description&quot;:&quot;AddToCart&quot;}""><span class=""text"">Add to cart</span></button>",Add To Cart
+https://www.crateandbarrel.com/,"<button type=""button"" data-id=""addToCartButton"" class=""button button-primary button-xl button-add-single button-hover"" value=""addToCart"" aria-describedby=""summary-custom-product""><span>Add to Cart</span></button>",Add To Cart
+https://www.primark.com/,NaN,Add To Cart
+https://www.frmoda.com/en/,"<button id=""add-to-cart-button"" type=""button"" title=""Add to shopping bag"" class=""button btn-cart"">
+                <span>Add to Shopping Bag</span></button>",Add To Cart
+https://www.petsmart.com/,"<button class=""default satc-button-container"">Add to cart</button>",Add To Cart
+https://www.bathandbodyworks.com/,"<button data-ibm=""{&quot;productInfo&quot;:{&quot;productID&quot;:&quot;026441610&quot;,&quot;productName&quot;:&quot;Ocean Driftwood 3-Wick Candle&quot;,&quot;description&quot;:&quot;A revitalizing retreat in a maritime forest that delivers an amazing, room-filling fragrance experience.&quot;,&quot;productURL&quot;:&quot;https://www.bathandbodyworks.com/p/ocean-driftwood-3-wick-candle-026441610.html&quot;,&quot;manufacturer&quot;:&quot;&quot;,&quot;productImage&quot;:&quot;https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4d099559/hires/026441610.jpg?sh=1500&amp;sfrm=jpg&quot;,&quot;color&quot;:&quot;&quot;,&quot;size&quot;:&quot;14.5 oz / 411 g&quot;},&quot;price&quot;:&quot;13.25&quot;,&quot;category&quot;:{&quot;primaryCategory&quot;:&quot;home-fragrance&quot;},&quot;attributes&quot;:{&quot;product_price&quot;:&quot;13.25&quot;,&quot;product_category&quot;:&quot;home-fragrance&quot;}}"" data-tealium=""{&quot;brand&quot;:&quot;&quot;,&quot;category&quot;:&quot;home-fragrance&quot;,&quot;subcategory&quot;:&quot;3-wick-candles&quot;,&quot;original_price&quot;:&quot;26.5&quot;,&quot;price&quot;:&quot;13.25&quot;,&quot;promo_code&quot;:&quot;&quot;,&quot;discount_amount&quot;:&quot;0&quot;,&quot;id&quot;:&quot;026441610&quot;,&quot;image&quot;:&quot;https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4d099559/hires/026441610.jpg?sh=1500&amp;sfrm=jpg&quot;,&quot;name&quot;:&quot;Ocean Driftwood 3-Wick Candle&quot;,&quot;sku&quot;:&quot;&quot;,&quot;description&quot;:&quot;A revitalizing retreat in a maritime forest that delivers an amazing, room-filling fragrance experience.&quot;,&quot;color&quot;:&quot;&quot;,&quot;size&quot;:&quot;14.5 oz / 411 g&quot;,&quot;url&quot;:&quot;https://www.bathandbodyworks.com/p/ocean-driftwood-3-wick-candle-026441610.html&quot;,&quot;auto_refresh&quot;:&quot;n&quot;}"" id=""add-to-cart"" type=""submit"" title=""Add to Bag"" value=""Add to Bag"" class=""button-fancy-large add-to-cart"">Add to Bag</button>",Add To Cart
+https://www.roguefitness.com/,"<button data-v-6cb5804e="""" data-v-dd738dbe="""" data-link="""" class=""button btn-size-m red full""><!----><span data-v-6cb5804e="""" class=""block button-content""><!----><span data-v-6cb5804e="""" class=""block slot"">Add to Cart</span><!----></span></button>",Add To Cart
+https://www.finishline.com/,"<button class=""button expanded top"" id=""buttonAddToCart"" title="""" aria-describedby=""80h24e-tooltip"" data-yeti-box=""80h24e-tooltip"" data-toggle=""80h24e-tooltip"" data-resize=""80h24e-tooltip"" data-t=""k5r1sn-t"" data-events=""resize"">Add to Bag</button>",Add To Cart
+https://www.ray-ban.com/international,NaN,Add To Cart
+https://www.harveynichols.com/,"<button class=""add-to-bag add-to-bag--beauty bttn bttn--grey-3"" type=""button"">Add to bag</button>",Add To Cart
+https://www.kmart.com/,"<button class=""button-primary"" type=""submit"" role=""button"" data-id=""addToCart"" data-analytics-title=""PDP > RHR > Add To Cart"" data-analytics-no-listen="""" style=""visibility: visible;"">
+                            
+                                
+                                    Add to Cart
+                                
+                            
+                        </button>",Add To Cart
+https://www.scanmalta.com/shop/,"<button type=""submit"" aria-label=""Add to Cart"" title=""Add to Cart"" class=""action primary tocart"" id=""product-addtocart-button""><span>Add to Cart</span></button>",Add To Cart
+https://us.pandora.net/,"<button type=""button"" data-isquickview=""false"" title=""Add to Bag"" value=""Add to Bag"" class=""Button Button--primary button-fancy-large add-to-cart addToBagButton addtocartbutton limited-edition-add-to-cart"">
+<span class=""button-pdp-add-to-bag"">
+Add to Bag
+</span>
+</button>",Add To Cart
+https://www.bedbathandbeyond.com/store/s/bags,"<a target=""_top"" rel=""nofollow"" data-search-replace=""href"" data-test=""plpATC"" class=""plpAtc vt05 btn btnOutlinePrimary wHide        show30"" data-amp-bind-href=""'https://www.bedbathandbeyond.com/store/s/bags/?skuId=69532364'   +     '&amp;qty=1&amp;prodId=5482257&amp;type=cart'      + '#prodCard5482257'"" i-amphtml-binding="""" i-amphtml-key=""126"" href=""https://www.bedbathandbeyond.com/store/s/bags/?skuId=69532364&amp;qty=1&amp;prodId=5482257&amp;type=cart#prodCard5482257"">    Add to Cart    </a>",Add To Cart
+https://eur.shein.com/Quilted-Detail-Metal-Decor-Square-Bag-p-10086833-cat-2152.html?src_identifier=st%3D2%60sc%3Dbags%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_home1653312800905&scici=Search~~EditSearch~~1~~bags~~~~0,"<button class=""she-btn-black she-btn-xl"">
+                    Add To Bag
+                </button>",Add To Cart
+https://store.acer.com/en-gb/notebook-starter-kit-for-17,"<button type=""submit"" title=""Add to Basket"" class=""action primary tocart"" id=""product-addtocart-button"">
+					<span>Add to Basket</span>
+				</button>",Add To Cart
+craigslist.org,NaN,Add To Cart
+homemate.com.mt,"<input type=""submit"" name=""ctl00$PageContent$ContentControl$ctl00$btnAddCart"" value=""Add to your basket"" id=""ctl00_PageContent_ContentControl_ctl00_btnAddCart"" class=""btn btn-dark mb-2"">",Add To Cart
+rakuten.co.jp,"<a data-ratparam=""all"" data-ratid=""floating_add"" data-ratevent=""pv,appear"" class=""cart-button floating-button add-cart skuPopupDisplayAddCart""><span class=""normal""><img src=""https://r.r10s.jp/com/img/rms/storefront/pc/page/plussign_23x23.png""><span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add products to the basket</font></font></span></span></a>",Add To Cart
+trendyol.com,"<button class=""default"" data-tracker=""click:BasketImpression"" data-abtestingcookies=""A_46-B_30-C_16-D_60-E_12-F_20-G_92-H_99-I_1-J_30-K_72-L_77-M_4-N_84-O_65"" data-referrer=""https://www.trendyol.com/en/sr?q=bags&amp;os=1"" data-loggedin=""0"" data-contentid=""63121859"" data-storefrontid=""25"" data-culture=""en-MT"" data-countrycode=""MT"" data-productprice=""4,64"" data-productquantity=""753"" data-productoriginalprice=""10,99"" data-productdiscountedprice=""8,99"">ADD TO CART</button>",Add To Cart
+flipkart.com,"<button class=""_2KpZ6l _2U9uOA _3v1-ww""><svg class=""_1KOMV2"" width=""16"" height=""16"" viewBox=""0 0 16 15"" xmlns=""http://www.w3.org/2000/svg""><path class="""" d=""M15.32 2.405H4.887C3 2.405 2.46.805 2.46.805L2.257.21C2.208.085 2.083 0 1.946 0H.336C.1 0-.064.24.024.46l.644 1.945L3.11 9.767c.047.137.175.23.32.23h8.418l-.493 1.958H3.768l.002.003c-.017 0-.033-.003-.05-.003-1.06 0-1.92.86-1.92 1.92s.86 1.92 1.92 1.92c.99 0 1.805-.75 1.91-1.712l5.55.076c.12.922.91 1.636 1.867 1.636 1.04 0 1.885-.844 1.885-1.885 0-.866-.584-1.593-1.38-1.814l2.423-8.832c.12-.433-.206-.86-.655-.86"" fill=""#fff""></path></svg> ADD TO CART</button>",Add To Cart
+allegro.pl,"<button id=""add-to-cart-button"" class=""mgn2_14 mp0t_0a m9qz_yp mp7g_oh mse2_40 mqu1_40 mtsp_ib mli8_k4 mp4t_0 m3h2_0 mryx_0 munh_0 m911_5r mefy_5r mnyp_5r mdwl_5r msbw_2 mldj_2 mtag_2 mm2b_2 mqvr_2 msa3_z4 mqen_m6 meqh_en m0qj_5r mh36_16 mvrt_16 mg9e_0 mj7a_0 mjir_sv m2ha_2 m8qd_qh mjt1_n2 b1vf8 mgmw_9u msts_enp mrmn_qo mrhf_u8 m31c_kb m0ux_fp bnpxh m7er_k4"" type=""button"" data-analytics-interaction=""true"" data-analytics-interaction-label=""AddToCartItem"" data-analytics-interaction-value=""10411518216"" data-analytics-interaction-custom-flow=""PurchasingProcess"" data-analytics-view-label=""AddToCartItem"" data-analytics-view-value=""10411518216"" data-analytics-enabled=""true"" data-item=""true""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">add to cart</font></font></button>",Add To Cart
+https://www.alcott.eu/it_IT/,"<button class=""add-to-cart btn btn-dark "" data-pid=""98675009"" data-ready-to-order=""false"">
+            <span>add&nbsp;to&nbsp;Cart</span>
+    </button>",Add To Cart
+wildberries.ru,"<a class=""btn-base j-go-to-basket"" href=""/lk/basket"" data-link=""class{merge: !selectedNomenclature^addedToBasket toggle='hide'}"">        ??????? ? ???????    </a>",Add To Cart
+https://lava.mt/,"<button type=""submit"" name=""add-to-cart"" value=""77933"" class=""single_add_to_cart_button button alt"">Add to cart</button>",Add To Cart
+mercadolibre.com.ar,"<button type=""submit"" class=""andes-button andes-button--quiet"" formaction=""/p/MLA1117453046/add-to-cart"" formmethod=""POST""><span class=""andes-button__content""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to cart</font></font></span></button>",Add To Cart
+samsclub.com,"<button class=""sc-btn sc-btn-primary sc-btn-block sc-pc-action-button sc-pc-add-to-cart"" type=""submit"" aria-label=""Add to cart button for Windex Original Glass Cleaner (128 oz. Refill + 32 oz. Trigger)""><span>Add to cart</span></button>",Add To Cart
+https://www.zara.com/mt/,"<button class=""button product-cart-buttons__button product-cart-buttons__add-to-cart"" aria-label=""Add to bag LINEN BLEND FLORAL PRINT DRESS""><div class=""button__lines-wrapper""><span>Add to bag</span></div></button>",Add To Cart
+mercadolibre.com.mx,"<button type=""submit"" class=""andes-button andes-button--quiet"" formaction=""/p/MLM1415771302/add-to-cart"" formmethod=""POST""><span class=""andes-button__content""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to cart</font></font></span></button>",Add To Cart
+market.yandex.ru,"<button class=""zsSJk _16jAB LS3-2 _2Sz75 _3iugb _2VlTH _1jnLi"" type=""button"" data-tid=""e1c9fd84 fff1ad47"" data-tid-prop=""e1c9fd84 fff1ad47""> <span class=""_1qOET""><div class=""_1UPuX""><span class=""_21ohE oV7Gb""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to Basket</font></font></span></div></span></button>",Add To Cart
+shopee.co.id,"<button type=""button"" class=""btn btn-tinted btn--l GfiOwy RT2b7v"" aria-disabled=""false""><svg enable-background=""new 0 0 15 15"" viewBox=""0 0 15 15"" x=""0"" y=""0"" class=""shopee-svg-icon -ttlB- icon-add-to-cart""><g><g><polyline fill=""none"" points="".5 .5 2.7 .5 5.2 11 12.4 11 14.5 3.5 3.7 3.5"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-miterlimit=""10""></polyline><circle cx=""6"" cy=""13.5"" r=""1"" stroke=""none""></circle><circle cx=""11.5"" cy=""13.5"" r=""1"" stroke=""none""></circle></g><line fill=""none"" stroke-linecap=""round"" stroke-miterlimit=""10"" x1=""7.5"" x2=""10.5"" y1=""7"" y2=""7""></line><line fill=""none"" stroke-linecap=""round"" stroke-miterlimit=""10"" x1=""9"" x2=""9"" y1=""8.5"" y2=""5.5""></line></g></svg><span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">add cart</font></font></span></button>",Add To Cart
+https://www.jennyfer.com/en-gb/clothes/view-all/,"<button type=""submit"" class=""btn btn-icon btn-block btn-secondary js-product-page-add-to-cart-btn js-btn-in-stock"">
+<span class=""icon icon-shopping-bag""></span>
+Add to Cart
+</button>",Add To Cart
+olx.com.br,NaN,Add To Cart
+americanas.com.br,"<a class=""src__ButtonUI-sc-1207ch0-1 gAHBeb"" aria-current=""page"" href=""/garantia/4660839717?buyboxToken=&amp;condition=NEW&amp;offerId=61eef99ed9fd6edeec01e26a&amp;pricingId&amp;productId=4660839717&amp;productQty=1&amp;productSku=4660839776&amp;sellerId=32520733000143&amp;sellerStoreId""><svg width=""19"" height=""18"" viewBox=""0 0 19 18"" fill=""none"" xmlns=""http://www.w3.org/2000/svg"" class=""icon__BasketUI-sc-14ouwfa-0 gVhHBo""><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M11.25 1.5l5.626 4.72h1.374a.75.75 0 010 1.5h-.092l-1.12 8.522a1.685 1.685 0 01-1.712 1.479H4.176c-.962 0-1.608-.686-1.713-1.48l-1.12-8.52H1.25a.75.75 0 010-1.5h1.374L8.25 1.5a1.5 1.5 0 113 0zM9.75 3c.265 0 .513-.069.73-.189l4.062 3.41H4.958L9.02 2.81c.216.12.464.189.729.189zM2.855 7.72h13.79l-1.094 8.326c-.013.1-.084.175-.225.175H4.176c-.142 0-.213-.075-.226-.175L2.855 7.721zM14 9.22a.75.75 0 00-.75.75v4.5a.75.75 0 001.5 0v-4.5a.75.75 0 00-.75-.75zm-3.583.75a.75.75 0 011.5 0v4.5a.75.75 0 01-1.5 0v-4.5zm-2.084-.75a.75.75 0 00-.75.75v4.5a.75.75 0 001.5 0v-4.5a.75.75 0 00-.75-.75zm-3.583.75a.75.75 0 011.5 0v4.5a.75.75 0 01-1.5 0v-4.5z"" fill=""#fff""></path></svg><span class=""src__BuyButtonText-sc-1207ch0-0 jojnpV""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">purchase</font></font></span></a>",Add To Cart
+sahibinden.com,NaN,Add To Cart
+kakaku.com,NaN,Add To Cart
+shopping.yahoo.co.jp,NaN,Add To Cart
+mercari.com,NaN,Add To Cart
+hudsonstore.com,"<button class=""btn btn--animate btn--add-to-cart  js-add-to-cart-product-page"" data-variant-id=""39588207951990"" title=""Add to Cart"" data-add-to-cart=""""><i class=""icon-handbag""></i><span data-add-to-cart-text="""">Add To Bag</span><span class=""text-sent"">Added To Cart</span></button>",Add To Cart
+ozon.ru,"<button tabindex=""0"" type=""button"" class=""ui-c3 ui-g9""><span class=""ui-c4 ui-c8 ui-f2 ui-g9"" style=""border-radius:6px;""><span class=""ui-g1"">???????? ? ???????</span></span></button>",Add To Cart
+wish.com,"<div tabindex=""0"" class=""BuyButton__Button-uq0s5t-0 BuyButton__Buy-uq0s5t-1 dCseoO"">Buy</div>",Add To Cart
+bol.com,"<a href=""/nl/order/basket/addItems.html?productId=9200000087325912&amp;offerId=1001031204453278&amp;quantity=1"" role=""button"" class=""ui-btn  ui-btn--buy js_floating_basket_btn js_btn_buy js_preventable_buy_action"" aria-label=""In winkelwagen"" data-bltgh=""rMCyEZbw7-fFDuj57QRBbw.2_30.31.AddToCart"" data-product-id=""9200000087325912"" data-show-additional-page=""true"" data-buy-block-type=""ListPage"" data-test=""add-to-basket"" data-offer-id=""1001031204453278"" data-relatedproductimage_id=""9200000087325912"" id=""9200000087325912"" data-button-type=""buy"" data-size-pick-prevent=""add_to_basket""><svg version=""1.1"" viewBox=""0 0 14 14"" aria-hidden=""true"" class=""svg-inline--bi bi-plus bi-lg bi-hide"" data-test=""icon-plus"" focusable=""false""><path fill-rule=""evenodd"" d=""M7.5 8v3.51A.5.5 0 017 12a.492.492 0 01-.5-.49V8H2.99a.5.5 0 01-.49-.5c0-.276.215-.5.49-.5H6.5V3.49A.5.5 0 017 3c.276 0 .5.215.5.49V7h3.51a.5.5 0 01.49.5c0 .276-.215.5-.49.5H7.5z""></path></svg><svg version=""1.1"" viewBox=""0 0 14 14"" aria-hidden=""true"" class=""svg-inline--bi bi-check bi-lg bi-show"" data-test=""icon-check"" focusable=""false""><path fill-rule=""evenodd"" d=""M4.508 6.197a.494.494 0 01.704-.003l1.77 1.77 3.184-3.183a.504.504 0 01.706.002.494.494 0 01.001.705L7.69 8.672l-.707.707L4.5 6.897a.5.5 0 01.007-.7z""></path></svg><svg version=""1.1"" viewBox=""0 0 24 24"" aria-hidden=""true"" class=""svg-inline--bi bi-basket bi-lg"" data-test=""icon-basket"" focusable=""false""><path d=""M23.9 6.5c0-.8-.7-1.5-1.5-1.5H5.8l-1-4H1c-.6 0-1 .4-1 1s.4 1 1 1h2.2L4 6.2l2.9 11.6c-.5.6-.9 1.4-.9 2.2 0 1.7 1.3 3 3 3s3-1.3 3-3c0-.4-.1-.7-.2-1h4.4c-.1.3-.2.6-.2 1 0 1.7 1.3 3 3 3s3-1.3 3-3c0-.9-.4-1.6-.9-2.2l2.7-11c0-.1.1-.2.1-.3zM10 20c0 .6-.4 1-1 1s-1-.4-1-1 .4-1 1-1 1 .4 1 1zm9 1c-.6 0-1-.4-1-1s.4-1 1-1 1 .4 1 1-.4 1-1 1zm.2-4H8.8L6.3 7h15.4l-2.5 10z""></path></svg></a>",Add To Cart
+magazineluiza.com.br,"<button color=""secondary"" data-testid=""bagButton"" class=""sc-dlVxhl kQdJBd sc-fxoWpM eTvnBQ""><span class=""sc-ieecCq dknfso""><svg fill="""" class=""sc-dkPtRN hZVisB""><use xlink:href=""#ShoppingBagIcon""></use></svg></span><label class=""sc-dJjYzT bMXplM""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to Bag</font></font></label></button>",Add To Cart
+casasbahia.com.br,"<button data-id=""button"" class=""button__Button-sc-107kx6n-0 DMZmk styled__StyledButton-sc-1marlud-0 kHXdka"" type=""button"" color=""primary"" font-family=""default"" font-weight=""bolder""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to cart</font></font><div class=""progress-loading__ProgressLoading-x4za1g-0 lkKIDS""></div></button>",Add To Cart
+https://www.joom.com/en,"<button class=""button___QgjBY rounded-rect___SFxsn large___-7jyU gray___3JeHp large___-7jyU""><span class=""content___1XQa9""><span class=""label___cSRL4"">Add to cart</span></span></button>",Add To Cart
+shopping.naver.com,"<a href=""#none"" class=""sub_cart"" id=""cartBtn"" onclick=""product_submit(2, '/exec/front/order/basket/', this)""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">shopping basket</font></font></a>",Add To Cart
+shopee.vn,"<button type=""button"" class=""btn btn-tinted btn--l GfiOwy RT2b7v"" aria-disabled=""false""><svg enable-background=""new 0 0 15 15"" viewBox=""0 0 15 15"" x=""0"" y=""0"" class=""shopee-svg-icon -ttlB- icon-add-to-cart""><g><g><polyline fill=""none"" points="".5 .5 2.7 .5 5.2 11 12.4 11 14.5 3.5 3.7 3.5"" stroke-linecap=""round"" stroke-linejoin=""round"" stroke-miterlimit=""10""></polyline><circle cx=""6"" cy=""13.5"" r=""1"" stroke=""none""></circle><circle cx=""11.5"" cy=""13.5"" r=""1"" stroke=""none""></circle></g><line fill=""none"" stroke-linecap=""round"" stroke-miterlimit=""10"" x1=""7.5"" x2=""10.5"" y1=""7"" y2=""7""></line><line fill=""none"" stroke-linecap=""round"" stroke-miterlimit=""10"" x1=""9"" x2=""9"" y1=""8.5"" y2=""5.5""></line></g></svg><span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">add to cart</font></font></span></button>",Add To Cart
+subito.it,NaN,Add To Cart
+kohls.com,"<input type=""button"" title=""Add To Cart"" alt=""Add To Cart"" class=""pdp-addtobag"" id=""addtobagID"" name=""pdp-addtobag"" data-prodid=""5241406"" value=""Add to Cart"">",Add To Cart
+kijiji.ca,NaN,Add To Cart
+digikala.com,"<button class=""relative d-flex ai-center user-select-none Button-module_btn__daEdK text-button-2 Button-module_btn--medium__7lzYn Button-module_btn--primary__RKxUy radius-medium d-none d-flex-lg w-full"" data-cro-id=""pdp-add-to-cart"" data-add-to-cart-variant-id=""28889080""><div class=""d-flex ai-center jc-center Button-module_btn__loading__47UHk""><div class=""rounded-circle Loading-module_Loading__circle__VPFX- Loading-module_Loading__circle--low-emphasis__BFY3N""></div><div class=""rounded-circle Loading-module_Loading__circle__VPFX- Loading-module_Loading__circle--low-emphasis__BFY3N""></div><div class=""rounded-circle Loading-module_Loading__circle__VPFX- Loading-module_Loading__circle--low-emphasis__BFY3N""></div></div><div class=""d-flex ai-center jc-center relative grow-1""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Add to cart</font></font></div></button>",Add To Cart
+dmm.com,NaN,Add To Cart
+argos.co.uk,NaN,Add To Cart
+otto.de,"<button data-qa=""addToBasket"" class="" prd_ordering__button pl_button100--primary js_product_addToBasket"" autocomplete=""off"" type=""submit"">
+                    <i><svg width=""24"" height=""24"" xmlns=""http://www.w3.org/2000/svg"">
+                        <path d=""M17.8324 4.05c.641 0 1.1697.502 1.2029 1.1422l.7009 13.5442-.0042.127c-.0527.6166-.5699 1.1006-1.2001 1.1006H5.4645l-.1581-.0104c-.6136-.0805-1.0737-.619-1.0451-1.2486L4.8733 5.2c.029-.6434.5592-1.15 1.2032-1.15zm0 .949H6.0764a.2555.2555 0 00-.2551.244l-.612 13.505a.2555.2555 0 00.2437.2667l13.0789.0003a.2555.2555 0 00.2555-.2555l-.6999-13.5182a.2555.2555 0 00-.2551-.2423zm-2.7644 1.57c.242 0 .438.1958.438.438 0 1.2117-.3739 2.237-1.0805 2.9637-.6382.6561-1.4975 1.018-2.4197 1.018-1.7438 0-3.5091-1.3679-3.5091-3.9822 0-.2421.1959-.438.438-.438.242 0 .438.1959.438.438 0 2.134 1.3649 3.1058 2.6331 3.1058.6835 0 1.3196-.267 1.7914-.7524.5445-.56.8328-1.3739.8328-2.353 0-.242.1959-.438.438-.438z""></path>
+                    </svg></i><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">in the cart
+                </font></font></button>",Add To Cart
+slickdeals.net,NaN,Add To Cart
+marktplaats.nl,NaN,Add To Cart
+dpoint.jp,NaN,Add To Cart
+momoshop.com.tw,NaN,Add To Cart
+cdiscount.com,"<input class=""btGreen btS jsValidForm"" onclick=""return $(this.form).addToBasket()"" type=""button"" value=""Ajouter au panier"">",Add To Cart
+poshmark.com,NaN,Add To Cart
+otomoto.pl,NaN,Add To Cart
+ticketmaster.com,"<button class=""indexstyles__StyledButton-sc-83qv1q-0 iJDrsX sc-w14m4a-5 lgVqvh"" type=""button""><span class=""indexstyles__FlexWrapper-sc-83qv1q-1 cNExrK""><span class=""indexstyles__Text-sc-83qv1q-2 dbVWpK"">Get Tickets</span></span></button>",Add To Cart
+smzdm.com,NaN,Add To Cart
+https://www.wayfair.com/,"<a class=""pl-Button pl-Button--primary pl-Button--fullWidth"" href=""/v/checkout/basket/show?finalizestdco=1"" data-hb-id=""Button"" data-enzyme-id=""proceedToCheckoutBtn"" data-codeception-id=""minicartProceedToCheckoutBtn""><span class=""pl-Button-content"">Check Out Now</span></a>",Check Out
+https://store.steampowered.com/,"<a data-panel=""{&quot;autoFocus&quot;:true}"" id=""btn_purchase_self"" href=""https://store.steampowered.com/checkout/?purchasetype=self&amp;snr=1_8_4__503"" class=""btnv6_green_white_innerfade btn_medium continue"">
+			<span>Purchase for myself</span>
+		</a>",Check Out
+https://www.amazon.com/,"<input name=""proceedToRetailCheckout"" data-feature-id=""proceed-to-checkout-action"" class=""a-button-input"" type=""submit"" value=""Proceed to checkout"" aria-labelledby=""sc-buy-box-ptc-button-announce"">",Check Out
+https://www.ebay.com/,"<button class=""call-to-action btn btn--large btn--primary"" type=""button"" data-test-id=""cta-top"" data-ebayui="""">Go to checkout</button>",Check Out
+https://shop.bbc.com/,"<a class=""button button--primary button--block"" href=""/cart"" data-cy=""cartDrawerLink"">
+          Review &amp; Checkout
+        </a>",Check Out
+https://www.aliexpress.com/,"<button id=""checkout-button"" type=""button"" class=""next-btn next-large next-btn-primary"" role=""button""><span class=""click-mask""></span>BUY (0)</button>",Check Out
+https://www.amazon.co.uk/,"<input name=""proceedToRetailCheckout"" data-feature-id=""proceed-to-checkout-action"" class=""a-button-input"" type=""submit"" value=""Proceed to checkout"" aria-labelledby=""sc-buy-box-ptc-button-announce"">",Check Out
+https://www.etsy.com/,"<button class=""proceed-to-checkout wt-btn wt-btn--filled wt-mt-xs-2 wt-width-full
+"" type=""submit"" data-raised-guest-checkout-limit=""false"" data-redirect-to=""/cart/6376356030/checkout/?payment_method=paypal"">
+    <span class=""submit-button-text"">Pay with <div class=""paypal-logo""><span class=""screen-reader-only"">PayPal</span></div></span>
+</button>",Check Out
+https://www.walmart.com/,"<button class=""w_Bq w_Bs w_Bv w_Bx"" type=""button"" id=""Continue to checkout button"">Continue to checkout</button>",Check Out
+https://www.carrefour.com/en,"<button type=""button"" class=""pl-button pl-button--primary pl-button--full"" data-testid=""checkout-cta-priced_button""><!----> <span class=""pl-button__label"">
+    Voir mon panier
+    </span> <div class=""pl-price checkout-cta-priced__amount pl-price--chip pl-price--xs"" data-testid=""checkout-cta-priced_amount""><!---->
+  0,00
+  <span class=""pl-price__curency"">€</span></div></button>",Check Out
+https://www.bestbuy.com/?intl=nosplash,"<button class=""btn btn-lg btn-block btn-primary"" type=""button"" data-track=""Checkout - Top"">Checkout</button>",Check Out
+https://www.homedepot.com/,"<button type=""submit"" class=""bttn bttn--primary"" data-automation-id=""checkoutNowButton""><span class=""bttn__content"">Checkout </span></button>",Check Out
+https://www.target.com/,NaN,Check Out
+https://www.nike.com/gb/,"<button data-version=""__VERSION_HERE__"" class="" css-1ky1h7x-PrimaryDarkButton-buttonPaddingBorderRadiusStyles-disabledButtonStyles-primaryDisabledStyles-primaryDarkButtonStyles e1udugn30"" type=""button"" tabindex=""0"" href=""https://www.nike.com/gb/checkout/tunnel"" data-automation=""guest-checkout-button"">Checkout</button>",Check Out
+https://www.costco.com/,"<input type=""button"" class=""primary-button-green-v2"" value=""Checkout"" name=""checkout"" id=""shopCartCheckoutSubmitButton"" onclick=""COSTCO.OrderSummaryCart.submitCart('https://www.costco.com/ManageShoppingCartCmd?actionType=checkout');"" automation-id=""shopCartCheckoutButton"">",Check Out
+https://www2.hm.com/en_gb/index.html,"<button class=""CTA-module--action__3u4Lb CTA-module--medium__3OtCb CTA-module--primary__2vO6- CartSidebar--continueButton__3ds9k"" data-testid=""continue-button"" type=""button""><span>Continue to checkout</span></button>",Check Out
+https://www.newegg.com/,"<button type=""button"" class=""btn btn-primary btn-wide""> Secure Checkout <i class=""fa fa-caret-right"" aria-label=""Next Step""></i></button>",Check Out
+https://www.macys.com/,"<button id=""atbIntCheckout"" class=""expanded button primary"" data-auto=""checkout"">Checkout</button>",Check Out
+https://www.bhphotovideo.com/,"<input data-selenium=""checkoutLogin"" type=""submit"" name=""checkoutLogin"" class=""btn s-btn-theme s-style-4 btn-begin-checkout upper"" value=""Begin Checkout"" id=""loginCart"">",Check Out
+https://www.americanexpress.com/,"<button id=""top-cart-btn-checkout"" type=""button"" class=""action primary checkout"" data-action=""close"" data-bind=""
+                            attr: {
+                                title: $t('Proceed to Checkout'),
+                                disabled: checkoutDisabled
+                            },
+                            click: closeMinicart()
+                        , i18n: 'Proceed to Checkout'"" title=""Proceed to Checkout"">Proceed to Checkout</button>",Check Out
+https://www.redbubble.com/,"<a href="""" class=""app-ui-components-Button-Button_button_1_MpP app-ui-components-Button-Button_secondary_24DXQ app-ui-components-Button-Button_padded_1fH5b"" id=""shipping-preference-standard""><span class=""app-ui-components-Button-Button_content_3Nr2i""><span><span>Checkout </span><span><span>€91.56</span></span><span></span></span></span></a>",Check Out
+https://us-store.msi.com/,"<a href=""https://us-store.msi.com/checkout"" class=""btn btn-dark"" style=""width: 100%; font-weight: bold; box-shadow: none; border-radius: 0px; font-size:14px; padding: 15px 12px;"">PROCEED TO CHECKOUT</a>",Check Out
+https://www.carrefour.fr/p/pain-boule-bio-carrefour-bio-2023040000050,"<button type=""button"" class=""pl-button pl-button--primary pl-button--full"" data-testid=""checkout-cta-priced_button""><!----> <span class=""pl-button__label"">
+    Voir mon panier
+    </span> <div class=""pl-price checkout-cta-priced__amount pl-price--chip pl-price--xs"" data-testid=""checkout-cta-priced_amount""><!---->
+  2,29
+  <span class=""pl-price__curency"">€</span></div></button>",Check Out
+https://www.uniqlo.com/eu/en/home,"<a class=""addToCart__button addToCart__button--checkout js_addToCartcheckout"" href=""https://www.uniqlo.com/eu/en/cart"" title=""Proceed to checkout"">
+Proceed to checkout
+</a>",Check Out
+https://www.cdiscount.com/,NaN,Check Out
+https://www.nintendo.com/,"<button aria-label=""Proceed to secure checkout"" class=""Buttonstyles__Button-sc-63wrer-1 fbeWFX""><svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 32 32"" width=""24"" role=""presentation"" alt="""" data-testid=""ChevronRightIcon"" color=""currentColor"" size=""24""><path fill-rule=""evenodd"" clip-rule=""evenodd"" fill=""currentColor"" d=""M5.3 4.3L9.8 0l16.9 16L9.8 32l-4.5-4.3L17.7 16z""></path></svg><span class=""Buttonstyles__Span-sc-63wrer-0 gqZUzN"">Log in to checkout</span></button>",Check Out
+https://www.humblebundle.com/,"<div class=""js-shopping-cart-button shopping-cart-button in-cart"">
+      <span class=""add""><i class=""hb hb-shopping-cart-solid""></i> Add to Cart</span>
+      <span class=""checkout""><i class=""hb hb-shopping-cart-solid""></i> Checkout</span>
+    </div>",Check Out
+https://www.shutterfly.com/,"<button class=""proceedToCheckoutButton uig-button uig-primary-button"" data-linkname=""recommendations-checkout""><span class=""proceed-to"">Proceed to</span> Checkout</button>",Check Out
+https://www.walgreens.com/,"<button class=""btn btn__green"" id=""wag-cart-proceed-to-checkout"" data-event=""Proceed to Checkout"" data-reactid=""4"">Proceed to Checkout</button>",Check Out
+https://www.bedbathandbeyond.com/,"<button type=""button"" class=""input-button Button-inline_2BGv activePressed Button-inline_4r9R Button-inline_38Wh mb1"">Checkout</button>",Check Out
+https://shein.com/,"<button class=""S-button j-cart-check bUqVNB S-button__primary S-button__H54PX"" role=""button"" value=""""><!----><div style=""text-transform: uppercase; text-overflow: ellipsis; overflow: hidden;"">checkout securely now</div> <div class=""la-ball-pulse la-ball-pulse-white she-hide""><div></div> <div></div> <div></div></div></button>",Check Out
+https://www.sephora.com/,"<button data-at=""basket_checkout_btn"" type=""button"" class=""css-1apobl3 eanm77i0"" data-comp=""StyledComponent BaseComponent "">Checkout Shipped Items</button>",Check Out
+https://www.boohoo.com/,"<a class=""b-button b-minicart-button "" href=""https://www.boohoo.com/checkout-login"" data-ref=""lastFocusElement"" data-tau=""minicart_start_checkout_bottom"">
+Checkout
+</a>",Check Out
+https://www.asos.com/?,"<a data-test-id=""checkout-link"" class=""_1TlOB9h _2tvh469 _3olGy8t"" href=""#"" type=""button""><span class=""_1M-cSy1"">Checkout</span></a>",Check Out
+https://www.rei.com/,"<a data-v-101d509e="""" class=""atc-modal__button-checkout cdr-button_11-3-1 cdr-button--primary_11-3-1 cdr-button--medium_11-3-1 cdr-button--full-width_11-3-1"" id=""atc-modal-btn-checkout"" href=""/ShoppingCart"">
+          Cart &amp; Checkout
+        </a>",Check Out
+https://www.gamestop.com/,"<a href=""https://www.gamestop.com/checkout/login/"" class=""mb-2 mx-0 btn btn-primary btn-block checkout-btn "">
+        <span class=""checkout-btn-text-mobile"">Proceed To Checkout</span>
+        <span class=""checkout-btn-mobile-total d-none"">$827.99</span>
+    </a>",Check Out
+https://www.barnesandnoble.com/,"<a href=""/checkout/signin-checkout.jsp"" class=""btn sign-in-checkout btn--full-width order-summary__btn--checkout mini-cart-checkout-redirect"" data-params=""{&quot;tplParams&quot;:{&quot;isCheckout&quot;:&quot;true&quot;,&quot;isNew&quot;:&quot;true&quot;}}"">CONTINUE
+TO CHECKOUT</a>",Check Out
+https://www.fnac.com/,"<button class=""button_1msFE contained_2aLcm primary_2LfKB full_2XhVy"" data-automation-id=""btn-basketsummary-submitBasket"" data-testid=""basketSubmitBtn"" type=""button""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Validate my basket</font></font></button>",Check Out
+https://www.bodybuilding.com/en-MT/index,"<input type=""submit"" name=""checkout"" class=""Button Button__checkout"" value=""Checkout"" data-cart-checkout="""">",Check Out
+https://www.6pm.com/,"<button type=""submit"" class=""BE-z"">Proceed to Checkout</button>",Check Out
+https://www.urbanoutfitters.com/,"<button type=""button"" class=""o-pwa-button-cart"" modulename=""cart"">
+    Proceed to Checkout
+</button>",Check Out
+https://www.vans.eu/,"<a href=""VFShippingAddressView?orderId=55141135&amp;storeId=10158&amp;langId=-11"" class=""button primary btn-checkout-js "" title=""CHECKOUT SECURELY"">CHECKOUT SECURELY</a>",Check Out
+https://store.acer.com/en-gb/?internal_source=mktg_hp-nav&internal_medium=link&internal_campaign=internal,"<button type=""button"" data-role=""proceed-to-checkout"" title=""Proceed to Checkout"" class=""action primary checkout"">
+        <span>Proceed to Checkout</span>
+    </button>",Check Out
+https://www.elo7.com.br/,"<input type=""submit"" value=""Submit order from this store"" class=""btn btn-yellow send-order"">",Check Out
+https://shop.mango.com/mt/women,"<button class=""sg-button-primary"" type=""button"" data-testid=""bag.preview.checkout.button"">Checkout</button>",Check Out
+https://www.jarir.com/,"<a data-v-465e5902="""" href=""/checkout"" class=""button button--primary button--fluid"" data-testid=""subscribeSubmit""><!----> <div class=""icon button__icon""><svg viewBox=""0 0 32 32"" xmlns=""http://www.w3.org/2000/svg""><path d=""M1.932 0A1.957 1.957 0 0 0 0 1.97c0 1.082.872 1.968 1.935 1.968a1.95 1.95 0 0 0 1.633-.924 1.97 1.97 0 0 0 .105-1.882A4.398 4.398 0 0 1 6.84 4.645l3.622 20.977a2.917 2.917 0 0 0 2.613 2.417 2.462 2.462 0 0 0-.275 2.574A2.438 2.438 0 0 0 14.975 32a2.438 2.438 0 0 0 2.171-1.374 2.462 2.462 0 0 0-.253-2.567H23.2a2.47 2.47 0 0 0-.243 2.56 2.446 2.446 0 0 0 2.16 1.379 2.438 2.438 0 0 0 2.17-1.374 2.462 2.462 0 0 0-.252-2.565h2.43v-.982H13.316a1.938 1.938 0 0 1-1.905-1.63l-.654-3.785h15.458c1.56 0 2.924-1.096 3.289-2.642L32 8.418 8.128 6.43 7.79 4.478A5.347 5.347 0 0 0 2.557 0h-.625zm10.065 11.429h14.865a.57.57 0 0 1 .568.571.57.57 0 0 1-.568.571H11.997A.57.57 0 0 1 11.43 12a.57.57 0 0 1 .568-.571zm-11.57 0h6.006c.236 0 .426.256.426.571 0 .315-.19.571-.426.571H.426C.191 12.571 0 12.315 0 12c0-.315.19-.571.426-.571h.002zM14.283 16h10.293a.574.574 0 0 1 .492.857.568.568 0 0 1-.492.285H14.282a.568.568 0 0 1-.492-.285.574.574 0 0 1 0-.571.568.568 0 0 1 .492-.286zM2.858 16h3.428a.57.57 0 0 1 .569.571.57.57 0 0 1-.569.571H2.858a.568.568 0 0 1-.492-.285.574.574 0 0 1 0-.571.568.568 0 0 1 .492-.286z""></path></svg></div> <span class=""button__content button__content--with-icon""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">
+              finish shopping
+            </font></font></span> <!----></a>",Check Out
+https://www.ulta.com/,"<button tabindex=""-1"" class=""Button Button__primary Button--large Button--block""><span class=""lock""><svg viewBox=""0 0 55.83 68.83""><path d=""M51.54,24.8H47.32V19.55A19.44,19.44,0,0,0,28.49,0H27.35A19.44,19.44,0,0,0,8.51,19.55V24.8H4.29A4.31,4.31,0,0,0,0,29.1V64.53a4.31,4.31,0,0,0,4.29,4.29H51.54a4.31,4.31,0,0,0,4.29-4.29V29.1A4.31,4.31,0,0,0,51.54,24.8ZM31.2,49.17v5.57a3.11,3.11,0,0,1-3.11,3.11h-.36a3.11,3.11,0,0,1-3.11-3.11V49.17a7.1,7.1,0,1,1,6.58,0ZM39.29,24.8H16.54V19.55a11.37,11.37,0,1,1,22.75,0Z""></path></svg></span>Secure Checkout</button>",Check Out
+https://www.sears.com/,"<button ng-if=""(validProceedToCheckout() == true)"" ng-click=""validateKioskCart();"" class=""shc-btn shc-btn-cta ng-scope""><span class=""font-SHC-Icons"">K</span><span ng-bind=""proceedText"" class=""ng-binding"">Proceed to Checkout</span></button>",Check Out
+https://www.qvc.com/,"<button class=""btn btn-primary btnCheckout btn-lg"" data-href=""/checkout/reg/order-review.html"" type=""button"">Checkout</button>",Check Out
+https://www.ifixit.com/,"<a href=""/checkout"" class=""button button--blue"">
+                                Check Out
+                              </a>",Check Out
+https://uk.tommy.com/,"<button data-testid=""basket-panel-move-to-checkout"" data-click-target="""" type=""button"" class=""Button Button__primary basket-panel__summary-action button--v2"">Checkout</button>",Check Out
+https://www.hermes.com/us/en/,"<button _ngcontent-apollo-c100="""" class=""button-dark width-auto button-angular"" type=""button"" name=""undefined""><!---->Checkout<!----></button>",Check Out
+https://store.arduino.cc/,"<button class=""button-primary atc-button--checkout mdc-ripple-surface mdc-ripple-upgraded"" type=""submit"" name=""checkout"">
+              
+              <span>Checkout</span>
+            </button>",Check Out
+https://grifo210.com/en/,"<button type=""button"" data-role=""proceed-to-checkout"" title=""Proceed to Checkout"" class=""action primary checkout"">
+        <span>Proceed to Checkout</span>
+    </button>",Check Out
+https://www.mediamarkt.de/,"<button type=""button"" class=""StyledButton-sc-140xkaw-1 hweZot""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Proceed to checkout</font></font></button>",Check Out
+https://www.ae.com/us/en,"<button class=""btn btn-colored-blue    btn-block btn-go2checkout qa-btn-go2checkout"" type=""button"">
+  
+        Proceed To Checkout
+      
+</button>",Check Out
+https://www.cabelas.com/shop/en,"<a href=""#"" role=""button"" class=""btn primary mobileChartButtonClear ss125"" id=""guestShopperContinue"" onclick=""javascript:if(CheckoutHelperJS.canCheckoutContinue('G') &amp;&amp; CheckoutHelperJS.updateShoppingCart(document.ShopCartForm,true)){CheckoutHelperJS.checkSubscriptionItemsInCartForGuest('https://www.cabelas.com/shop/OrderShippingBillingView?autoAdvFromPg=shopCart&amp;shipmentType=single&amp;catalogId=10551&amp;langId=-1&amp;storeId=10651', 'https://www.cabelas.com/shop/CheckoutStoreSelectionView?fromPage=ShoppingCart&amp;catalogId=10551&amp;langId=-1&amp;storeId=10651');}return false;"">
+									CheckOut
+							</a>",Check Out
+https://eu.gymshark.com/,"<button name=""checkout"" class=""cta product"" id=""checkout"">
+                            Checkout
+</button>",Check Out
+https://shop.lululemon.com/,"<button class=""button-qfnRT lll-text-button orderctas_ctaMargin__2N0XU orderctas_yogoButton__3Qwcv buttonPrimary-1m-xO buttonBlock-3QinT"" aria-disabled=""false"" type=""button"" data-lulu-track=""my-bag-checkout-enabled"" data-lulu-attributes=""{&quot;type&quot;:&quot;component&quot;,&quot;component&quot;:{&quot;type&quot;:&quot;button&quot;,&quot;name&quot;:&quot;checkoutButtonBottom&quot;,&quot;id&quot;:&quot;checkout-button-bottom&quot;}}""><div class=""iconButtonContent-29UhU""><svg height=""24"" width=""24"" viewBox=""0 0 24 24"" xmlns=""http://www.w3.org/2000/svg"" class=""iconButtonIcon-3D2lQ"" focusable=""false"" role=""img"" aria-hidden=""true""><path d=""m12 0c-6.627417 0-12 5.372583-12 12s5.372583 12 12 12 12-5.372583 12-12-5.372583-12-12-12zm4.69 19.7333333c-1.0484896-.0017666-2.0533339-.4199725-2.7934778-1.1626169s-1.1549585-1.7488934-1.1531889-2.7973831c.0485423-.755246.2349487-1.4952231.55-2.1833333.1888889-.5111111.3777778-1.0188889.5666667-1.5233333.4756908-1.193802.8307914-2.43218723 1.06-3.6966667.1566667-1 .14-2.22666667-.6233333-3-.5833334-.58666667-1.4866667-.70333333-2.2966667-.72333333s-1.7133333.13666666-2.29666667.72666666c-.76333333.77-.78 2-.62333333 3 .22942436 1.2633467.58452194 2.50060497 1.06 3.69333337.1866667.5066666.3755556 1.0144444.5666667 1.5233333.3150513.6881102.5014577 1.4280873.55 2.1833333.0108181 1.8972796-1.33101712 3.5332966-3.19373864 3.8939286s-3.7181943-.6563704-4.41626139-2.4205952c.52880634.4863512 1.23685296.7294912 1.95288859.6706129.71603564-.0588783 1.37485437-.414413 1.81711141-.9806129.5325003-.7201071.69318124-1.6495845.43333333-2.5066667-.25666667-.93-.82-1.6666667-1.27-2.5466667-1.46333333-2.49999997-1.40333333-4.36999997-1.40333333-4.36999997 0-3.73 3.56-4.36333333 6.82333333-4.36333333 3.2633333 0 6.8233333.63333333 6.8233333 4.36333333 0 0 .06 1.87-1.4033333 4.36999997-.45.8633334-1 1.6166667-1.27 2.5466667-.2598479.8570822-.099167 1.7865596.4333333 2.5066667.4422571.5661999 1.1010758.9217346 1.8171114.9806129.7160357.0588783 1.4240823-.1842617 1.9528886-.6706129-.5973841 1.5002888-2.0484858 2.4852951-3.6633333 2.4866666z"" fill=""currentColor""></path></svg><span>CHECKOUT</span></div></button>",Check Out
+https://www.jcrew.com/mt/,"<button class=""button__2DP4D theme_primary__2J5iP checkout_button__2KHpP"" data-qaid=""checkoutButton""><span>Check Out Now</span></button>",Check Out
+https://www.harrods.com/en-mt/,"<a class=""e1fbjroo5 css-nc2g6x er62km90"" data-test=""checkout-button"" href=""/en-mt/commerce/checkout"">Secure Checkout Now</a>",Check Out
+https://front.wemakeprice.com/main,"<a class=""btns_sys red_big_xxl add_space"" href=""#"" onclick=""javascript:cart.goOrder(); return false""><span class=""cart_buy""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Purchase</font></font></span></a>",Check Out
+https://www.jbhifi.com.au/,"<button class=""collect-checkout cart-buttons-checkout"" type=""submit"" name=""checkout"">
+          <svg xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 52 52"">
+            <use xlink:href=""#iconSpinner""></use>
+            <title>Spinner</title>
+          </svg>
+          <span>Checkout</span>
+        </button>",Check Out
+https://uk.jbl.com/home?countrySelector=yes&ged=off,"<a href=""https://uk.jbl.com/checkoutstart"" class=""btn_primary_ADA primary-button checkout-button "" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_621=""1"" data-gtm-vis-has-fired-7462654_636=""1""><span class=""btn_ADA"" data-gtm-vis-has-fired-7462654_622=""1"" data-gtm-vis-has-fired-7462654_621=""1"" data-gtm-vis-has-fired-7462654_636=""1"">Checkout</span></a>",Check Out
+https://www.leam.com/it_eu/,"<button type=""button"" title=""Proceed to purchase"" class=""button btn-proceed-checkout btn-checkout"" onclick=""window.location='https://www.leam.com/it_eu/firecheckout/';""><span><span><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Proceed to purchase</font></font></span></span></button>",Check Out
+https://www.prettylittlething.com/?refresh=1647018715474,"<button class=""button btn-proceed track-cart-proceed analytics-tracking btn-proceed--checkout"" data-event-category=""Basket"" data-event-action=""Proceed To Checkout"" data-event-label=""Top Button"" type=""submit"" title=""Proceed to the Checkout"">
+        <span class=""track-cart-proceed analytics-tracking"" data-event-category=""Basket"" data-event-action=""Proceed To Checkout"" data-event-label=""Bottom Button"">
+            <span class=""track-cart-proceed analytics-tracking"" data-event-category=""Basket"" data-event-action=""Proceed To Checkout"" data-event-label=""Bottom Button"">
+                Proceed to Checkout            </span>
+        </span>
+    </button>",Check Out
+https://www.alibris.com/,"<a href=""/checkout"" class=""btn btn-main btn-lg"" id=""proceedToCheckout"" aria-label=""proceed to checkout"" onclick=""$('.btn').toggleClass('disabled', true); return gtm_ecommerce('cart actions', 'check out');"">Proceed to Checkout</a>",Check Out
+https://colourpop.com/,"<a class=""btn btn--secondary"" href=""/checkout"">
+            SECURE CHECKOUT
+          </a>",Check Out
+https://www.staples.ca/,"<input type=""submit"" name=""checkout"" class=""button button--checkout "" value=""Checkout"">",Check Out
+https://www.leroymerlin.fr/,,Check Out
+https://eu.cettire.com/,"<div class=""_2qN3HiqEbi6Ug1XcfopM7t"" id=""cart--proceed-to-checkout""><span class=""_2VGNJUFgLjLDwpoYDCsr24"">Continue to Checkout</span><svg class=""_37l9QagMfakMISrZWnEoe8"" xmlns=""http://www.w3.org/2000/svg"" viewBox=""0 0 20 20""><path d=""M20 10c0 5.523-4.477 10-10 10S0 15.523 0 10 4.477 0 10 0v2c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8h2z""></path></svg></div>",Check Out
+https://www.pacsun.com/,"<a href=""#"" class=""btn btn-primary btn-block checkout-btn bfx-checkout mb-2"" role=""button"" onclick="""">
+Checkout
+</a>",Check Out
+https://www.woolworths.com.au/,"<a _ngcontent-serverapp-c358="""" routerlink=""/shop/checkout"" class=""button button--primary ng-star-inserted"" href=""/shop/checkout""> Checkout <i _ngcontent-serverapp-c358="""" class=""right-chevron iconAct-Chevron_Right""></i></a>",Check Out
+https://www.jomashop.com/,"<button type=""button"" class=""btn btn-primary btn-block btn-lg"">Checkout   <span class=""btn-co"">$182.86</span></button>",Check Out
+https://www.net-a-porter.com/en-mt/,"<a class=""Button10 Button10--primary Checkout-Basket1__proceed"" href=""/en-mt/checkout/login"">Continue to checkout</a>",Check Out
+https://www.forever21.com/,"<a href=""https://www.forever21.com/on/demandware.store/Sites-forever21-Site/en_US/Checkout-Login"" class=""button button--secondary text-line--normal cart__checkout-action checkout-btn set--w-100 "" role=""button"" data-cart-component=""checkout-action"">
+Checkout
+</a>",Check Out
+https://fineartamerica.com/,,Check Out
+https://www.lush.com/uk/en,"<button href=""https://checkout.lush.com/uk/en"" data-test=""basket-drawer__checkout-button"" type=""button"" class=""button__Element-sc-93eftx-0 iXucUK notranslate"">Checkout</button>",Check Out
+https://www.eu.forzieri.com/,"<button name=""checkout.x"" value=""checkout.x"" class=""pr-checkout-btn btn btn--primary"" type=""button"">Proceed to checkout</button>",Check Out
+https://www.packtpub.com/,NaN,Check Out
+https://www.underarmour.com/en-us/,"<a href=""https://www.underarmour.com/en-us/Checkout-Begin"" class=""g-button_base g-button_tertiary btn-block checkout-btn js-checkout-button"" role=""button"" aria-pressed=""true"" data-action-url=""https://www.underarmour.com/on/demandware.store/Sites-US-Site/en_US/Cart-ShowOutOfStockPopUp"">
+Checkout
+</a>",Check Out
+https://www.hsn.com/,"<button class=""main-button orange submit-button checkout-button"" data-href=""/checkout/order-review"" data-is-tablet=""false"" data-is-native=""false"" tabindex=""0"">
+<div class=""padlock-icon"" aria-hidden=""true"" tabindex=""-1"">
+    <svg viewBox=""0 0 20 27"">
+        <g stroke=""none"" stroke-width=""1"" fill=""none"" fill-rule=""evenodd"">
+            <g transform=""translate(-712.000000, -563.000000)"" fill=""#FFFFFF"">
+                <g transform=""translate(682.000000, 557.000000)"">
+                    <g transform=""translate(30.000000, 6.000000)"">
+                        <path d=""M2.35294118,26.4705882 L17.6470588,26.4705882 C18.9447059,26.4705882 20,25.4152941 20,24.1176471 L20,10.5882353 C20,10.2635294 19.7370588,10 19.4117647,10 L16.4705882,10 L16.4705882,6.97470588 C16.4705882,3.40705882 13.5676471,0.504117647 10,0.504117647 C6.43235294,0.504117647 3.52941176,3.40705882 3.52941176,6.97470588 L3.52941176,10 L0.588235294,10 C0.262941176,10 0,10.2635294 0,10.5882353 L0,24.1176471 C0,25.4152941 1.05529412,26.4705882 2.35294118,26.4705882 L2.35294118,26.4705882 L2.35294118,26.4705882 Z M4.70588235,6.97470588 C4.70588235,4.05588235 7.08058824,1.68058824 10,1.68058824 C12.9194118,1.68058824 15.2941176,4.05588235 15.2941176,6.97470588 L15.2941176,10 L4.70588235,10 L4.70588235,6.97470588 L4.70588235,6.97470588 L4.70588235,6.97470588 Z M1.17647059,11.1764706 L18.8235294,11.1764706 L18.8235294,24.1176471 C18.8235294,24.7664706 18.2958824,25.2941176 17.6470588,25.2941176 L2.35294118,25.2941176 C1.70411765,25.2941176 1.17647059,24.7664706 1.17647059,24.1176471 L1.17647059,11.1764706 L1.17647059,11.1764706 L1.17647059,11.1764706 Z"" id=""Shape""></path>
+                        <path d=""M9.41176471,18.1270588 L9.41176471,21.1764706 C9.41176471,21.5011765 9.67470588,21.7647059 10,21.7647059 C10.3252941,21.7647059 10.5882353,21.5011765 10.5882353,21.1764706 L10.5882353,18.1270588 C11.2711765,17.8835294 11.7647059,17.2364706 11.7647059,16.4705882 C11.7647059,15.4976471 10.9729412,14.7058824 10,14.7058824 C9.02705882,14.7058824 8.23529412,15.4976471 8.23529412,16.4705882 C8.23529412,17.2364706 8.72882353,17.8835294 9.41176471,18.1270588 L9.41176471,18.1270588 L9.41176471,18.1270588 Z M10,15.8823529 C10.3247059,15.8823529 10.5882353,16.1464706 10.5882353,16.4705882 C10.5882353,16.7947059 10.3247059,17.0588235 10,17.0588235 C9.67529412,17.0588235 9.41176471,16.7947059 9.41176471,16.4705882 C9.41176471,16.1464706 9.67529412,15.8823529 10,15.8823529 L10,15.8823529 L10,15.8823529 Z"" id=""Shape""></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>
+</div>
+                    secure checkout
+                </button>",Check Out
+https://stylesforless.com/,"<button type=""button"" class=""btn btn-primary btn-block btn-lg"">Checkout   <span class=""btn-co"">$297.99</span></button>",Check Out
+https://www.abebooks.com/,"<input id=""submit-upper"" type=""image"" src=""//assets.prod.abebookscdn.com/cdn/com/images/servlets/ShoppingBasket/proceedcheckout.gif"" name=""placeorderbutton"" alt=""Proceed to Checkout"">",Check Out
+https://www.harborfreight.com/,"<a class=""button"" href=""/checkout/onepage""><span>Start Secure Checkout</span></a>",Check Out
+https://www.joann.com/,"<a data-on-click=""login:show"" class=""button button--primary checkout-btn set--w-100"" role=""button"" data-cart-component=""checkout-action"" data-checkout-login=""true"" data-international-checkout-disable=""null"" data-tracking-url=""/on/demandware.store/Sites-JoAnn-Site/default/GTMEvents-BuildDataLayerJSON?event=checkout&amp;stepTitle=login"">
+        Checkout
+    </a>",Check Out
+https://www.kobo.com/,"<a class=""primary-button"" href=""https://www.kobo.com/mt/en/checkout/createpurchase"" data-track-info=""{&quot;description&quot;:&quot;checkout&quot;}"" rel=""nofollow"">Checkout</a>",Check Out
+https://www.crateandbarrel.com/,"<button type=""button"" class=""button button-primary button-xl button-checkout-now""> <span>Checkout Now</span></button>",Check Out
+https://www.primark.com/,,Check Out
+https://www.frmoda.com/en/,"<button type=""button"" title=""Proceed to Checkout"" class=""button btn-proceed-checkout btn-checkout"" onclick=""setLocation('https://www.frmoda.com/en/onestepcheckout/index/')"">
+    	Proceed to Checkout    </button>",Check Out
+https://www.petsmart.com/,"<a href=""/cart-checkout/"">continue to checkout</a>",Check Out
+https://www.bathandbodyworks.com/,"<button class=""button-fancy-large"" type=""submit"" value=""Checkout"" name=""dwfrm_cart_checkoutCart"">
+<span class=""checkout-button-icon""></span>Checkout
+</button>",Check Out
+https://www.roguefitness.com/,"<button data-v-6cb5804e="""" data-v-427799f6="""" data-link=""/checkout"" class=""button btn-size-m red full""><!----><span data-v-6cb5804e="""" class=""block button-content""><!----><span data-v-6cb5804e="""" class=""block slot"">Checkout</span><!----></span></button>",Check Out
+https://www.finishline.com/,"<a class=""button expanded mb-2 js-cart-proceed-btn"" href=""#"">
+<span class="""">Proceed to </span>Checkout
+</a>",Check Out
+https://www.ray-ban.com/international,,Check Out
+https://www.harveynichols.com/,"<a class="" link link--button link--grey-3"" href=""checkout/cart/"" target="""">Checkout 1 item</a>",Check Out
+https://www.kmart.com/,"<button ng-if=""(validProceedToCheckout() == true)"" ng-click=""validateKioskCart();"" class=""shc-btn shc-btn-cta ng-scope""><span class=""font-SHC-Icons"">K</span><span ng-bind=""proceedText"" class=""ng-binding"">Proceed to Checkout</span></button>",Check Out
+https://www.scanmalta.com/shop/,"<button type=""button"" data-role=""proceed-to-checkout"" title=""Proceed to Checkout"" class=""action primary checkout""><span>Proceed to Checkout</span></button>",Check Out
+https://us.pandora.net/,"<a href=""/en/checkout"" class=""btn-checkout Button Button--dark js-promo-bonus-check"" role=""button"">
+<span>Checkout</span>
+</a>",Check Out
+https://www.bedbathandbeyond.com/store/s/bags,"<button type=""button"" class=""input-button Button-inline_2BGv activePressed Button-inline_4r9R Button-inline_38Wh mb1"">Checkout</button>",Check Out
+https://eur.shein.com/Quilted-Detail-Metal-Decor-Square-Bag-p-10086833-cat-2152.html?src_identifier=st%3D2%60sc%3Dbags%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_home1653312800905&scici=Search~~EditSearch~~1~~bags~~~~0,"<button class=""S-button j-cart-check bUqVNB S-button__primary S-button__H54PX"" role=""button"" value=""""><!----><div style=""text-transform: uppercase; text-overflow: ellipsis; overflow: hidden;"">checkout securely now</div> <div class=""la-ball-pulse la-ball-pulse-white she-hide""><div></div> <div></div> <div></div></div></button>",Check Out
+https://store.acer.com/en-gb/notebook-starter-kit-for-17,"<button type=""button"" data-role=""proceed-to-checkout"" title=""Proceed to Checkout"" class=""action primary checkout"">
+        <span>Proceed to Checkout</span>
+    </button>",Check Out
+craigslist.org,"<button class=""S-button j-cart-check bUqVNB S-button__primary S-button__H54PX"" role=""button"" value=""""><!----><div style=""text-transform: uppercase; text-overflow: ellipsis; overflow: hidden;"">checkout securely now</div> <div class=""la-ball-pulse la-ball-pulse-white she-hide""><div></div> <div></div> <div></div></div></button>",Check Out
+taobao.com,,Check Out
+rakuten.co.jp,"<input type=""button"" class=""big-red-button large-button purchaseButton ratTrackingEvent"" data-item-keys=""39cdc7614e211bb1100e37287d3f6cd0"" value=""Purchase procedure"" alt=""Purchase procedure"" data-shop-id=""376063"" data-url-parameter-key=""l2-id"" data-url-parameter-val=""step0_pc_purchase_top"">",Check Out
+trendyol.com,"<button class=""checkout-btn"">CHECKOUT</button>",Check Out
+flipkart.com,"<button class=""_2KpZ6l _2ObVJD _3AWRsL""><span>Place Order</span></button>",Check Out
+allegro.pl,"<button data-analytics-enabled="""" data-analytics-view-label=""deliveryAndPaymentButtonState"" data-item="""" type=""button"" data-analytics-view-custom-enabled=""true"" class=""_13q9y _8tsq7 m7er_k4""><!----><span class=""mpof_uk mpof_5r_s""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">to the cash register</font></font></span><span class=""mpof_5r mpof_uk_s""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Delivery and payment</font></font></span></button>",Check Out
+https://www.alcott.eu/it_IT/,"<a href=""https://www.alcott.eu/en_MT/checkout-login"" data-checkout-from=""Mostra Carrello"" data-user-logged=""false"" class=""btn btn-black checkout-btn "" role=""button"" aria-pressed=""true"">
+        <span>Proceed to order</span>
+    </a>",Check Out
+wildberries.ru,"<button type=""button"" data-link=""disabled{:quickPayMode || tempBlockSubmit}class{merge: paymentType &amp;&amp; (paymentType^isApplePay || paymentType^isGooglePay) toggle='hide'}{on submitOrder ~tag}"" class=""b-btn-do-order btn-main j-btn-confirm-order"" name=""ConfirmOrderByRegisteredUser"" data-jsv=""#1592^/1592^"">                <script type=""jsv#1576^""></script><script type=""jsv#3959_""></script>                ????????                <script type=""jsv/3959_""></script><script type=""jsv/1576^""></script>            </button>",Check Out
+https://lava.mt/,"<a href=""https://lava.mt/checkout/"" class=""checkout-button button alt wc-forward"">
+	Proceed to checkout</a>",Check Out
+https://lucymakeup.com/,"<input type=""submit"" class=""action_button"" id=""checkout"" name=""checkout"" value=""Checkout"">",Check Out
+samsclub.com,"<button class=""sc-btn sc-btn-primary sc-btn-block sc-cart-begin-checkout-button"" type=""button""><span>Begin checkout</span></button>",Check Out
+https://www.zara.com/mt/,"<button class=""button layout-shop-footer__body-button""><div class=""button__lines-wrapper""><div class=""layout-shop-footer-continue-button""><div class=""layout-shop-footer-continue-button__text"" style=""transition-delay: 1000ms; transition-duration: 600ms;""><span>CONTINUE</span></div><div class=""layout-shop-footer-continue-button__icon"" style=""transition-delay: 1000ms; transition-duration: 600ms;""><svg class=""layout-shop-footer-continue-button__icon-image"" viewBox=""0 0 24 24""><path d=""M18.793 12.375h-15v-.75h15v.75z""></path><path fill-rule=""evenodd"" clip-rule=""evenodd"" d=""M12.646 18.854l-.707-.708L18.086 12l-6.147-6.146.707-.708L19.5 12l-6.854 6.854z""></path></svg></div></div></div></button>",Check Out
+https://www.revolutionbeauty.com/uk/en/home,"<button style=""
+             
+             "" type=""button"" class=""b-button_1"" role=""button"" aria-pressed=""true"" data-component=""global/EventTrigger"" data-component-options=""{
+            &quot;event&quot;: &quot;Cart:submit&quot;,
+            &quot;data&quot;: {
+                &quot;url&quot;: &quot;https://www.revolutionbeauty.com/uk/en/checkout-login&quot;,
+                &quot;type&quot;: &quot;regular&quot;
+            }
+        }"" data-js-proceed-to-checkout="""" data-component-id=""r_vrsw6bmm0r"">
+Checkout
+</button>",Check Out
+https://eshop.wuerth.com.mt/,"<button type=""submit"" id=""checkout"" name=""checkout"" value=""checkout"" class=""button-1 checkout-button"">
+                                        Checkout
+                                    </button>",Check Out
+https://www.decathlon.mt/,"<a href=""module/deca_connect/login?goback=step2"" class=""btn yellow-btn"" id=""""><span>Proceed to checkout</span></a>",Check Out
+https://www.jennyfer.com/en-gb/clothes/view-all/,"<button type=""button"" class=""btn btn-primary js-cart-pay-btn"">
+Checkout
+</button>",Check Out
+olx.com.br,NaN,Check Out
+americanas.com.br,"<button class=""sc-eggNIi sc-cTkwdZ JiLrb izDoJe sc-hnSKwL dGdhBF sc-hnSKwL dGdhBF""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Continue</font></font></button>",Check Out
+sahibinden.com,NaN,Check Out
+kakaku.com,NaN,Check Out
+shopping.yahoo.co.jp,NaN,Check Out
+mercari.com,NaN,Check Out
+hudsonstore.com,"<a href=""/checkout"" class=""btn "" id=""modalchkCheckout"">Proceed to checkout</a>",Check Out
+ozon.ru,"<button tabindex=""0"" type=""button"" class=""ui-c3 ui-g9""><span class=""ui-c4 ui-c9 ui-c8 ui-g9"" style=""border-radius:6px;""><span class=""ui-g1"">??????? ? ??????????</span></span></button>",Check Out
+wish.com,"<div size=""2"" color=""17"" role=""button"" rel=""noopener noreferrer"" class=""Button-sc-1r40802-0 WYopq Button___StyledStyledWishButtonWithKeyboard-sc-1aufq6l-0 daJqFr"" tabindex=""0"">Checkout</div>",Check Out
+bol.com,"<button class=""ui-btn  ui-btn--primary ui-btn--block@screen-small js_basket_bottom_button"" id=""continue_ordering_bottom"" data-button-type="" "" tabindex=""1"">
+
+  <svg version=""1.1"" viewBox=""0 0 14 14"" aria-hidden=""true"" class=""svg-inline--bi bi-chevron-next bi-lg"" data-test=""icon-chevron-next"" focusable=""false""><path fill-rule=""evenodd"" d=""M4.694 3.644a.508.508 0 010-.71.497.497 0 01.7-.006l4.06 4.084-4.055 4.054a.505.505 0 01-.707 0 .501.501 0 01.002-.71l3.352-3.351-3.352-3.36z""></path></svg><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">
+  Continue to order</font></font></button>",Check Out
+magazineluiza.com.br,"<button class=""BasketContinue-button"" data-ga=""{&quot;category&quot;: &quot;Carrinho&quot;, &quot;action&quot;: &quot;Continuar&quot;, &quot;label&quot;: &quot;&quot;}""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">Continue</font></font></button>",Check Out
+https://www.joom.com/en,"<button type="""" class=""button___3hmfW fill-brand___18fJk padding-normal___2ctfV block___2aWbQ rounded___1J8B1""><span class=""children___1pivU"">Buy for <span class=""hidden___6wtOd"">Price </span><span itemprop=""price"" content=""24.03"">€24.03</span><meta itemprop=""priceCurrency"" content=""EUR""><meta itemprop=""priceValidUntil"" content=""2023-05-25""></span></button>",Check Out
+shopping.naver.com,NaN,Check Out
+shopee.vn,"<button class=""shopee-button-solid shopee-button-solid--primary""><span class=""_3zK-FN"" _msthash=""1445873"" _msttexthash=""135902"">Purchases</span></button>",Check Out
+subito.it,NaN,Check Out
+kohls.com,"<a class=""checkout-btn"" id=""panel1083"" href=""javascript:void(0);"">Proceed To Checkout</a>",Check Out
+kijiji.ca,NaN,Check Out
+digikala.com,NaN,Check Out
+dmm.com,NaN,Check Out
+argos.co.uk,NaN,Check Out
+otto.de,"<a href=""/order/enterCheckout"" class=""p_btn100--1st""><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">To checkout</font></font><i><font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">&gt;</font></font></i></a>",Check Out
+slickdeals.net,NaN,Check Out
+marktplaats.nl,NaN,Check Out
+dpoint.jp,NaN,Check Out
+momoshop.com.tw,NaN,Check Out
+cdiscount.com,NaN,Check Out
+poshmark.com,"<button data-et-prop-listing_id=""6281211d8d9be91fed550546"" data-et-prop-lister_id=""5aa80a8cdf18843b095a5880"" data-et-prop-location=""listing_details"" data-et-on-name=""listing_details"" data-et-name=""buy_now"" data-et-element-type=""button"" class=""btn btn--primary btn--large m--t--3 col-x24 m--b--3"">
+  Buy Now
+</button>",Check Out
+otomoto.pl,NaN,Check Out
+ticketmaster.com,NaN,Check Out
+smzdm.com,NaN,Check Out
