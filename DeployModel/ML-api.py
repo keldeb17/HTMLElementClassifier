@@ -51,7 +51,7 @@ def preprocess_text(text):
 
 
 @app.get("/predict-element")
-def predict(element: Optional[List[str]] = Query(["<b>Hello world</b>"])):
+def predict(element: Optional[List[str]] = Query(["<input>type="text" type="text" id="search" name="q" </input>"])):
     
     ##Pre-process text
     processed_text = preprocess_text(element)
